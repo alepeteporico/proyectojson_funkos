@@ -807,7 +807,13 @@
       "name": "Flower",
       "id": "3753",
       "url": "http://funko.com/collections/pop/products/pop-disney-bambi-flower",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3753_Bambi_Movie_-_Flower_GLAM_large.jpg?v=1407344739"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3753_Bambi_Movie_-_Flower_GLAM_large.jpg?v=1407344739",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/Funko-POP-Disney-Flower-Action/dp/B00L9FGK04",
+          "Ebay":"https://www.ebay.com/p/1830626046"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Bambi - Thumper",
@@ -815,7 +821,13 @@
       "name": "Thumper",
       "id": "3752",
       "url": "http://funko.com/collections/pop/products/pop-disney-bambi-thumper",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3752_Bambi_Movie_-_Thumper_GLAM_large.jpg?v=1407344669"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3752_Bambi_Movie_-_Thumper_GLAM_large.jpg?v=1407344669",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-POP-Disney-Thumper-Figura/dp/B00L9FAYTC",
+          "Ebay":"https://www.ebay.com/p/2255400143"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6 - Fred",
@@ -823,7 +835,13 @@
       "name": "Fred",
       "id": "4660",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-fred",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4660_Fred_highres_large.jpg?v=1409010653"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4660_Fred_highres_large.jpg?v=1409010653",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Hero-Fred-Figura-vinilo/dp/B00MYUFLP8",
+          "Ebay":"https://www.ebay.es/itm/352856056517"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6 - Hiro",
@@ -831,7 +849,13 @@
       "name": "Hiro",
       "id": "4661",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-hiro",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4661_Hiro_hires_large.jpg?v=1409010395"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4661_Hiro_hires_large.jpg?v=1409010395",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Fun4661-Disney-Hero-Hamada/dp/B00MYUFLQW",
+          "Ebay":"https://www.ebay.es/p/18009496528"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6: Baymax",
@@ -839,7 +863,13 @@
       "name": "Baymax",
       "id": "4664",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-baymax",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4664_Baymax_hires_large.jpg?v=1409009340"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4664_Baymax_hires_large.jpg?v=1409009340",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pop-Vinilo-Hero-Baymax/dp/B00MYUFCKW/ref=sr_1_3?adgrpid=55403229079&gclid=CjwKCAiAhc7yBRAdEiwAplGxX7i3k7h6RKmYf_OZDTvqO6F-ZhKjQwxF0_0BHA9yZnqkoQlj4MCAwxoCVL0QAvD_BwE&hvadid=275523823901&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=11901253752485994961&hvtargid=aud-854254681907%3Akwd-302367387051&keywords=pop+funko+baymax&qid=1582534423&sr=8-3",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/disney-big-hero-6-baymax-6-inch-metallic-pop-vinyl-figure/11239379.html"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6: Go Go Tomago",
@@ -847,7 +877,13 @@
       "name": "Go Go Tomago",
       "id": "4662",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-go-go-tomago",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4662_Gogo_Tamago_hires_large.jpg?v=1409010144"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4662_Gogo_Tamago_hires_large.jpg?v=1409010144",
+      "tiendas":[
+        {
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-pop-vinyl-go-go-tomago-big-hero-6/10992231.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiAhc7yBRAdEiwAplGxX7HCVbd0coI3aK5lD1Kh8st6E38PxhDPtuAAujaOfEjdyfqCf2iWCxoCTN0QAvD_BwE&gclsrc=aw.ds",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-go-go-tomago-big-hero-6/10992231.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&gclid=CjwKCAiAhc7yBRAdEiwAplGxX-EnUFmJH3z3zKp6NrvCRcFm5fvVENhuMbQBkgf0E0rXxRU81mHLehoCQFoQAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6: Honey Lemon",
@@ -855,7 +891,13 @@
       "name": "Honey Lemon",
       "id": "4663",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-honey-lemon",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4663_Honey_Lemon_hires_large.jpg?v=1409009783"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4663_Honey_Lemon_hires_large.jpg?v=1409009783",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Figurita-Disney-Lemon-0849803046637/dp/B00MYUFCDE",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-BIG-HERO-6-HONEY-LEMON"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Big Hero 6: Wasabi No Ginger",
@@ -863,7 +905,14 @@
       "name": "Wasabi No Ginger",
       "id": "4659",
       "url": "http://funko.com/collections/pop/products/pop-disney-big-hero-6-wasabi-no-ginger",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4659_Wasabi_no_Ginger_hires_large.jpg?v=1409010907"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4659_Wasabi_no_Ginger_hires_large.jpg?v=1409010907",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Disney-6-Wasabi-No-Ginger/dp/B01M6CZM1J",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/disney-big-hero-6-wasabi-no-ginger-pop-vinyl-figure/10992228.html",
+          "Racoongames":"https://www.raccoongames.es/es/producto/pop-disney-big-hero-6-wasabi-no-ginger"
+        }
+      ]
     },
     {
       "title": "POP! Disney: Finding Nemo - Bruce",
@@ -871,7 +920,13 @@
       "name": "Bruce",
       "id": "3750",
       "url": "http://funko.com/collections/pop/products/pop-disney-finding-nemo-bruce",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3750_Bruce_NEMO_large.jpg?v=1407435997"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3750_Bruce_NEMO_large.jpg?v=1407435997",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-POP-Disney-Finding-Figura/dp/B00HG90IW8",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/disney-finding-nemo-bruce-pop-vinyl-figure/10916261.html"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Finding Nemo - Crush",
@@ -879,7 +934,14 @@
       "name": "Crush",
       "id": "3749",
       "url": "http://funko.com/collections/pop/products/pop-disney-finding-nemo-crush",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Crush_NEMO_large.jpg?v=1407346536"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Crush_NEMO_large.jpg?v=1407346536",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Finding-Crush-Vinyl-Figure/dp/B00KB0Z7W0",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/disney-finding-nemo-crush-pop-vinyl-figure/10916262.html",
+          "Funkotown":"http://www.funkotown.es/CRUSH-TORTUGA-FIG-10-CM-VINYL-POP-BUSCANDO-A-NEMO"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Finding Nemo - Dory",
@@ -887,7 +949,13 @@
       "name": "Dory",
       "id": "3748",
       "url": "http://funko.com/collections/pop/products/pop-disney-finding-nemo-dory",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dory_NEMO_large.jpg?v=1407347373"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dory_NEMO_large.jpg?v=1407347373",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinilo-Disney-Finding-Dory/dp/B01COYQFNU/ref=sr_1_4?keywords=FUNKO+POP+DISNEY+%3A+NEMO&qid=1582535527&sr=8-4",
+          "Ebay":"https://www.ebay.es/itm/124009255915"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Finding Nemo - Nemo",
@@ -895,7 +963,13 @@
       "name": "Nemo",
       "id": "3747",
       "url": "http://funko.com/collections/pop/products/pop-disney-finding-nemo-nemo",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Nemo_NEMO_large.jpg?v=1407349282"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Nemo_NEMO_large.jpg?v=1407349282",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Buscando-Nemo-Figura-colecci%C3%B3n-3747/dp/B00HG910Q6/ref=sr_1_1?adgrpid=56886294900&gclid=CjwKCAiAhc7yBRAdEiwAplGxX7N4Cdt-EMTgSpUCKVbV79AsmO1w5yrkMZAKRDfw2HRSqLtTy5y4-RoCQr4QAvD_BwE&hvadid=275383846444&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=10719741092377060951&hvtargid=aud-854254681907%3Akwd-299769037899&hydadcr=13144_1805742&keywords=funko+pop+nemo&qid=1582535636&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/NEMO-FIG-10-CM-VINYL-POP-BUSCANDO-A-NEMO-PIXAR"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Anna",
@@ -904,7 +978,12 @@
       "id": "4256",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-anna",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4256_Anna_Frozen_POP_bdec55c2-9c08-418b-bcd8-0d1a77777c00_large.jpg?v=1407191260",
-      "relacionados":["Coronation Anna","Young Anna"]
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Disney-Frozen-Figura/dp/B00KU12UXO/ref=sr_1_4?adgrpid=56886294900&gclid=CjwKCAiAhc7yBRAdEiwAplGxXy-uhaYDud9NT85-fGZ9nXGTN-3uILa_gFmNvOAm_ylZEUqrAmvSfBoCn5kQAvD_BwE&hvadid=275383846444&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=13999966114618733191&hvtargid=aud-854254681907%3Akwd-299743748139&hydadcr=13144_1805742&keywords=anna+funko+pop&qid=1582535760&sr=8-4",
+          "Ebay":"https://www.ebay.es/i/184031829626?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=184031829626&targetid=858074030141&device=c&mktype=pla&googleloc=1005421&poi=&campaignid=1670809416&mkgroupid=89579263898&rlsatarget=pla-858074030141&abcId=1139526&merchantid=116391778&gclid=CjwKCAiAhc7yBRAdEiwAplGxX-bvq4ciIQBye3tWoRE01O_mZ0LbsxTf51NjEyIMnZiEIMEhtrj-mhoCpd4QAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Coronation Anna",
@@ -913,7 +992,12 @@
       "id": "4833",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-coronation-anna",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4833_CoronationAnnaPOP_large.jpg?v=1417651357",
-      "relacionados":["Anna","Young Anna"]
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Disney-Frozen-Coronation/dp/B00TTKIRMU",
+          "Ebay":"https://www.ebay.ca/itm/Funko-POP-Disney-Frozen-119-Coronation-Anna-Loose/333519161123?hash=item4da74a8723:g:oLoAAOSw4qNeQrEE"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Coronation Elsa",
@@ -922,7 +1006,13 @@
       "id": "4832",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-coronation-elsa",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4832_CoronationElsa_POP_large.jpg?v=1417651426",
-      "relacionados":["Elsa","Young Elsa"]
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.es/i/293244927201?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=293244927201&targetid=856157574650&device=c&mktype=pla&googleloc=1005421&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=7671260&gclid=CjwKCAiAhc7yBRAdEiwAplGxX4b1fYXGn5BGTTmB04eB0raTQRhIDiSNWWh9wzNyZJbYokGMmqAzgRoCjJQQAvD_BwE",
+          "Amazon":"https://www.amazon.es/Disney-Frozen-Vinyl-coronaci%C3%B3n-FUN4832/dp/B00R7FDZJE",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/disney-frozen-coronation-elsa-with-orb-exclusive-pop-vinyl-figure/11089847.html"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Elsa",
@@ -931,7 +1021,11 @@
       "id": "4255",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-elsa",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4255_Elsa_Frozen_POP_large.jpg?v=1407191184",
-      "relacionados":["Coronation Elsa","Young Elsa"]
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Frozen-Elsa-594/dp/B07V2JPYBS/ref=sr_1_11?adgrpid=56886294900&gclid=CjwKCAiAhc7yBRAdEiwAplGxX-0QXlqGhEEJZq8pM1wneHiE9O_ensYXyYl3VcU-hw-2gXfDMCMGYRoCCAEQAvD_BwE&hvadid=275383846444&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=10559281645215157061&hvtargid=aud-854254681907%3Akwd-300279771051&hydadcr=13144_1805742&keywords=elsa+funko+pop&qid=1582536137&sr=8-11"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Kristoff",
@@ -939,7 +1033,13 @@
       "name": "Kristoff",
       "id": "4257",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-kristoff",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4257_Kristoff_Frozen_NEW_7_25_POP_large.jpg?v=1407191372"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4257_Kristoff_Frozen_NEW_7_25_POP_large.jpg?v=1407191372",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Frozen-Reino-Hielo-Figura-Kristoff/dp/B00NY1WZU0/ref=sr_1_fkmr0_2?adgrpid=54637105365&gclid=CjwKCAiAhc7yBRAdEiwAplGxXxsjYpxmM27Jx7WGlL-oVUupTcSYNqpOs9Sd-s4KpQTiratjVQHFTRoCoooQAvD_BwE&hvadid=275315276073&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=11900401569462249250&hvtargid=aud-854254681907%3Akwd-364880035597&hydadcr=16370_1786544&keywords=funko+pop+kristoff&qid=1582536318&sr=8-2-fkmr0",
+          "Ebay":"https://www.ebay.com/itm/Kristoff-from-Frozen-Funko-POP-Disney-Vinyl-Action-Figure-83-in-Box/283641869047?epid=1630556892&hash=item420a5f72f7:g:F0gAAOSwK~ldoqI7"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Olaf",
@@ -948,7 +1048,12 @@
       "id": "4258",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-olaf",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4258_Olaf_Frozen_POP_cf04e5ff-00df-4615-8d40-e507ff4ea592_large.jpg?v=1407191339",
-      "relacionados":["Summer Olaf"]
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Pocket-POP-Funko-Estatuilla-0849803049997/dp/B00OV4WAGS/ref=sr_1_8?adgrpid=63027512104&gclid=CjwKCAiAhc7yBRAdEiwAplGxX4KVPP6_Gl4gFMqdnvhZ2Eh1fqA2ECizHH78ngFTFRFE0NESgu4bbBoCVqEQAvD_BwE&hvadid=275376058481&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=10607802781476299601&hvtargid=aud-854254681907%3Akwd-298983949410&hydadcr=16374_1786558&keywords=olaf+funko+pop&qid=1582536439&sr=8-8",
+          "Ebay":"https://www.ebay.es/itm/Funko-OLAF-79-Pop-Vinyl-Disney-Frozen-Figure/114115977944?hash=item1a91d7a2d8:g:0nwAAOSwI1BeSAry"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Summer Olaf",
@@ -957,7 +1062,13 @@
       "id": "4834",
       "url": "http://funko.com/collections/pop/products/pop-disney-frozen-summer-olaf",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4834_SummerOlafPOP_large.jpg?v=1417651295",
-      "relacionados":["Olaf"]
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.es/itm/143437443667",
+          "Amazon":"https://m.media-amazon.com/images/I/51iR7EGsUWL._AC_UL320_ML3_.jpg",
+          "Racoongames":"https://www.raccoongames.es/es/producto/pop-disney-frozen-summer-olaf"
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Frozen - Sven",
@@ -1015,7 +1126,12 @@
       "name": "Shere Khan",
       "id": "4041",
       "url": "http://funko.com/collections/pop/products/pop-disney-jungle-book-shere-khan",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4041_ShereKhan_GLAM_large.jpg?v=1409955861"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4041_ShereKhan_GLAM_large.jpg?v=1409955861",
+      "tiendas":[
+        {
+          
+        }
+      ]
     },
     {
       "title": "Pop! Disney: Lilo and Stitch - Lilo",
