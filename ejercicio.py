@@ -49,6 +49,15 @@ while True:
     elif opc==4:
         figura=input("Dime una figura: ")
         print(figura,"pertenece a",ej4(datos,figura))
+        print("")
+        
+        if len(ej4_2(datos,figura))!=0:
+            print("-------RELACIONADAS-------")
+            for figuras in ej4_2(datos,figura):
+                print("-",figuras)
+        
+        else:
+            print("No hay figuras relacionadas.")
         print("------------------------------------------------------------------")
         print("")
     
