@@ -30,9 +30,11 @@ def ej4(datos,figura):
 
 def ej4_2(datos,figura):
     relacionadas=[]
-
-    for licencias in datos:
-        for figuras in datos[licencias]:
-            if figuras.get("name")!=figura and figura in figuras.get("name"):
-                relacionadas.append(figuras["name"])
+    descartados=["The","the","a","in","King"]
+    for figuras in datos[ej4(datos,figura)]:
+        cadenas=figuras.get("name").split(" ")
+        for cadena in cadenas:
+            if cadena not in descartados:
+                if figuras.get("name")!=figura and cadena in figuras.get("name"):
+                    relacionadas.append(figuras["name"])
     return relacionadas
