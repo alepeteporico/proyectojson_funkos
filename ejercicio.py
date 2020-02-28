@@ -32,6 +32,12 @@ while True:
             opcion=input("¿Quieres listar las figura de alguna otra licencia? (s/n): ")
         print("------------------------------------------------------------------")
         print("")
+
+    elif opc==2:
+        licencia=input("Dime la licencia de la que quieres contar las figuras: ")
+        print(licencia,"tiene",ej2(datos,licencia),"figuras")
+        print("------------------------------------------------------------------")
+        print("")
     
     elif opc==6:
         break
