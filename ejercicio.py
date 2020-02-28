@@ -1,3 +1,4 @@
+from funciones import *
 import json
 with open ("products.json") as fichero:
     datos=json.load(fichero)
@@ -12,3 +13,28 @@ while True:
     print("6. Salir")
     print("==============================================================================================")
     opc=int(input("Elige una opción: "))
+    print("")
+
+    if opc==1:
+        print("-------LICENCIAS-------")
+        for licencia in ej1(datos):
+            print("-",licencia)
+        print("")
+
+        opcion=input("¿Quieres listar las figuras de alguna licencia? (s/n): ")
+
+        while opcion=="s":
+            licencia=input("Dime la licencia de la que quieres listar las figuras: ")
+            print("-------FIGURAS-------")
+            for figura in ej1_2(datos,licencia):
+                print("-",figura)
+            print("--------------------")
+            opcion=input("¿Quieres listar las figura de alguna otra licencia? (s/n): ")
+        print("------------------------------------------------------------------")
+        print("")
+    
+    elif opc==6:
+        break
+
+    else:
+        print("ERROR, ESTA OPCION NO EXISTE")
