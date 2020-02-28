@@ -38,6 +38,11 @@ while True:
         print(licencia,"tiene",ej2(datos,licencia),"figuras")
         print("------------------------------------------------------------------")
         print("")
+
+    elif opc==3:
+        categoria=input("Dime una categoria: ")
+        for figura in ej3(datos,categoria):
+            print("-",figura)
     
     elif opc==6:
         break
