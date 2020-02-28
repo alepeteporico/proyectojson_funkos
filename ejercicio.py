@@ -43,6 +43,14 @@ while True:
         categoria=input("Dime una categoria: ")
         for figura in ej3(datos,categoria):
             print("-",figura)
+        print("------------------------------------------------------------------")
+        print("")
+    
+    elif opc==4:
+        figura=input("Dime una figura: ")
+        print(figura,"pertenece a",ej4(datos,figura))
+        print("------------------------------------------------------------------")
+        print("")
     
     elif opc==6:
         break

@@ -21,3 +21,10 @@ def ej3(datos,categoria):
             if figura.get("category")==categoria:
                 figuras.append(figura["name"])
     return figuras
+
+def ej4(datos,figura):
+    for licencias in datos:
+        for figuras in datos[licencias]:
+            if figuras.get("name")==figura:
+                return licencias
+
