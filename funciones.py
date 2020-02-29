@@ -39,3 +39,10 @@ def ej4_2(datos,figura):
                 if figuras.get("name")!=figura and cadena in figuras.get("name") and figuras.get("name") not in relacionadas:
                     relacionadas.append(figuras["name"])
     return relacionadas
+
+def ej5(datos,figura):
+    for licencias in datos:
+        for figuras in datos[licencias]:
+            if figuras["name"]==figura:
+                imagen=figuras.get("img")
+    return imagen

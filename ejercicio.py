@@ -1,4 +1,5 @@
 from funciones import *
+import webbrowser
 import json
 with open ("products.json") as fichero:
     datos=json.load(fichero)
@@ -55,12 +56,17 @@ while True:
             print("-------RELACIONADAS-------")
             for figuras in ej4_2(datos,figura):
                 print("-",figuras)
-        
         else:
             print("No hay figuras relacionadas.")
         print("------------------------------------------------------------------")
         print("")
     
+    elif opc==5:
+        figura=input("Dime una figura: ")
+        webbrowser.open_new_tab(ej5(datos,figura))
+        print("")
+
+        
     elif opc==6:
         break
 
