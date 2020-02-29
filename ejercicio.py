@@ -66,7 +66,16 @@ while True:
         webbrowser.open_new_tab(ej5(datos,figura))
         print("")
 
-        
+        opcion=input("¿Quieres ver en que tiendas online puede estar disponible esta figura? (s/n): ")
+        if opcion=="s":
+            print("-------TIENDAS-------")
+            for tienda in ej5_2(datos,figura):
+                print("-",tienda)
+            print("")
+            opcion=input("¿Quieres ir a alguna de las páginas? (s/n): ")
+            while opcion=="s":
+                pagina=input("Dime que página quieres visitar")
+
     elif opc==6:
         break
 

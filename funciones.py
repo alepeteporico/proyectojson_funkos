@@ -46,3 +46,13 @@ def ej5(datos,figura):
             if figuras["name"]==figura:
                 imagen=figuras.get("img")
     return imagen
+
+def ej5_2(datos,figura):
+    tiendas=[]
+    for licencias in datos:
+        for figuras in datos[licencias]:
+            if figuras["name"]==figura:
+                for elemento in figuras.get("tiendas"):
+                    for tienda in elemento.keys():
+                        tiendas.append(tienda)                 
+    return tiendas
