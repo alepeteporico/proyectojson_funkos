@@ -56,3 +56,11 @@ def ej5_2(datos,figura):
                     for tienda in elemento.keys():
                         tiendas.append(tienda)                 
     return tiendas
+
+def ej5_3(datos,figura,tienda):
+    for licencias in datos:
+        for figuras in datos[licencias]:
+            if figuras["name"]==figura:
+                for tiendas in figuras.get("tiendas"):
+                    online=tiendas.get(tienda)
+                    return online

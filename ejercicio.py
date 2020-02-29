@@ -74,7 +74,8 @@ while True:
             print("")
             opcion=input("¿Quieres ir a alguna de las páginas? (s/n): ")
             while opcion=="s":
-                pagina=input("Dime que página quieres visitar")
+                pagina=input("Dime que página quieres visitar: ")
+                webbrowser.open_new_tab(ej5_3(datos,figura,tienda))                
 
     elif opc==6:
         break
