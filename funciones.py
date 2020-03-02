@@ -30,7 +30,7 @@ def ej4(datos,figura):
 
 def ej4_2(datos,figura):
     relacionadas=[]
-    descartados=["The","the","a","in","King"]
+    descartados=["The","the","a","in","King","Arkham","Knight","Asylum"]
     cadenas=figura.split(" ")
 
     for figuras in datos[ej4(datos,figura)]:
