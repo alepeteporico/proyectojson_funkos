@@ -2399,7 +2399,13 @@
       "name": "Agent Carter",
       "id": "5920",
       "url": "http://funko.com/collections/pop/products/pop-marvel-agent-carter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5920_AgentCarter_POP_large.jpg?v=1433869704"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5920_AgentCarter_POP_large.jpg?v=1433869704",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Bobble-Marvel-Carter/dp/B00Z0FG86K/ref=sr_1_1?adgrpid=56885371620&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVARY1Vd3J5Iw1l8yzGU7M1X6Y-Tk6RjW_4FAkyvWzvl2dl-6dNwBhRoCt_4QAvD_BwE&hvadid=275324094135&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=9453502830543136131&hvtargid=aud-854254681907%3Akwd-300445718869&hydadcr=16345_1786483&keywords=funko+pop+agent+carter&qid=1583158014&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-agent-carter-with-gold-orb-limited-edition-pop-vinyl-figure/11195981.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583158055_87d82c677345186b2783e3ca8f73b20f"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Beast",
@@ -2407,7 +2413,13 @@
       "name": "Beast",
       "id": "3054",
       "url": "http://funko.com/collections/pop/products/pop-marvel-beast",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Beast_POP_GLAM_large.jpg?v=1407197356"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Beast_POP_GLAM_large.jpg?v=1407197356",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3054-Figura-Marvel-PDF00004013/dp/B00APPF4UG",
+          "Ebay":"https://www.ebay.es/itm/FUNKO-POP-X-MEN-21-BEAST-FIGURE-MARVEL-UNIVERSE-NEW-MINT-/163890247734"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Deadpool",
@@ -2415,7 +2427,13 @@
       "name": "Deadpool",
       "id": "3052",
       "url": "http://funko.com/collections/pop/products/pop-marvel-deadpool",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DeadPool_POP_GLAM_large.jpg?v=1407197024"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DeadPool_POP_GLAM_large.jpg?v=1407197024",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Marvel-Deadpool/dp/B00APPF3M0/ref=sr_1_9?adgrpid=58124088193&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVGinEOz2hPJqrNmUFm9EEizvLEqCsMjpHyv3D0qcRHTJMPK4Ha2SWBoCfZEQAvD_BwE&hvadid=278463714360&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=4540764851979571220&hvtargid=aud-854254681907%3Akwd-564168507279&hydadcr=16347_1789723&keywords=funko+-+pop+deadpool&qid=1583158167&sr=8-9",
+          "Ebay":"https://www.ebay.es/i/312935410551?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=312935410551&targetid=858074030141&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809416&mkgroupid=89579263898&rlsatarget=pla-858074030141&abcId=1139526&merchantid=7671260&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVBH7Tde-XbesNDCd8nUfS7Ic9aYnMvk4mvB5mtQhGJWAHerSkQFCRxoCKVwQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Deadpool (Blue)",
@@ -2423,7 +2441,13 @@
       "name": "Deadpool (Blue)",
       "id": "4918",
       "url": "http://funko.com/collections/pop/products/pop-marvel-deadpool-blue",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/deadpoolhires_large.jpg?v=1420837729"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/deadpoolhires_large.jpg?v=1420837729",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Bobble-Deadpool-amarillo/dp/B00O4IMT12",
+          "Popinabox":"https://www.popinabox.es/merch-figures/marvel-deadpool-thumbs-up-blue-x-men-exclusive-pop-vinyl-figure/11247310.html"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Ghost Rider",
@@ -2431,7 +2455,13 @@
       "name": "Ghost Rider",
       "id": "3053",
       "url": "http://funko.com/collections/pop/products/pop-marvel-ghost-rider",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Ghost_Rider_POP_GLAM_large.jpg?v=1414715446"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Ghost_Rider_POP_GLAM_large.jpg?v=1414715446",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pop-Marvel-Collectible-Multicolor/dp/B00APPF2K8/ref=sr_1_4?adgrpid=51655509530&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKhLK267hwhBNhU7bYw9L-bFQZgYu8-rM0BHJlnvSw1XzjKmPX0x9RoCSfAQAvD_BwE&hvadid=275365774249&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=11908984026682810172&hvtargid=aud-854254681907%3Akwd-314729947576&hydadcr=16346_1806575&keywords=funko+pop+ghost+rider&qid=1583158506&sr=8-4",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/el-motorista-fantasma-marvel-pop-vinyl-figure/10949576.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583158606_14b43dd69d47a3156d8d62954e90e873"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Heimdall",
@@ -2439,7 +2469,13 @@
       "name": "Heimdall",
       "id": "4298",
       "url": "http://funko.com/collections/pop/products/pop-marvel-heimdall",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4298_Thor_2_-_Heimdall_w-_Helmet_GLAM_large.jpg?v=1410217831"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4298_Thor_2_-_Heimdall_w-_Helmet_GLAM_large.jpg?v=1410217831",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Accesorio-para-playsets-FK4298/dp/B00LXUW1DA/ref=sr_1_2?adgrpid=61671434772&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVHvfhXMiwTWCpTzDJgiknZcMvsaDBwqFLj2J4QvPaMg8C34v3hBLNxoCxgwQAvD_BwE&hvadid=275528253824&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=17767263233706993713&hvtargid=aud-854254681907%3Akwd-311997045030&hydadcr=14557_1815310&keywords=funko+pop+heimdall&qid=1583158650&sr=8-2",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-thor-2-hiemdall-with-helmet-pop-vinyl-figure/10949583.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583158688_b9e39adad603aa1977c85b50028aa7fe"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Lady Sif",
@@ -2447,7 +2483,13 @@
       "name": "Lady Sif",
       "id": "4297",
       "url": "http://funko.com/collections/pop/products/pop-marvel-lady-sif",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4297_Thor_2_-_Lady_Sif_GLAM_large.jpg?v=1410218205"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4297_Thor_2_-_Lady_Sif_GLAM_large.jpg?v=1410218205",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Marvel-Figura-FK4297/dp/B00LXUW13A/ref=sr_1_2?adgrpid=54637105365&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVI5iOkXFzxKHzMhScjBS7VA24MQbcXlSxD9prbEd2Mbqz7D0cFVG1xoClSkQAvD_BwE&hvadid=275315276073&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=15406437618660098943&hvtargid=aud-854254681907%3Akwd-299325393803&hydadcr=16370_1786544&keywords=funko+pop+lady+sif&qid=1583158731&sr=8-2",
+          "Ebay":"https://www.ebay.es/i/123400922043?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=123400922043&targetid=858074030141&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809416&mkgroupid=89579263898&rlsatarget=pla-858074030141&abcId=1139526&merchantid=116431823&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVGTXPimqgcai0Wzq7W47ydTb7RpBxPJZnak9bYxvczszcvQkDNqvShoCLiwQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Loki",
@@ -2455,7 +2497,12 @@
       "name": "Loki",
       "id": "4399",
       "url": "http://funko.com/collections/pop/products/pop-marvel-loki",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4399_Loki-Movie2GLAM_large.jpg?v=1410217769"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4399_Loki-Movie2GLAM_large.jpg?v=1410217769",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Bobble-Marvel-Loki-Helmet/dp/B00LXWIEQG/ref=sr_1_2?adgrpid=53678625062&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVHKz3yZoO1Y3DFoDn4PKKNVeOOhhTlLw1wbx6goqqSDV5Mp4YnpQ0hoCxFIQAvD_BwE&hvadid=275466020878&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=1176917444416693687&hvtargid=aud-854254681907%3Akwd-306919497826&keywords=loki+pop+funko&qid=1583158802&sr=8-2"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Odin",
@@ -2463,7 +2510,12 @@
       "name": "Odin",
       "id": "4296",
       "url": "http://funko.com/collections/pop/products/pop-marvel-odin",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4296_Thor_2_Odin_GLAM_large.jpg?v=1410218761"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4296_Thor_2_Odin_GLAM_large.jpg?v=1410218761",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Marvel-Odin/dp/B00LXUW1DU/ref=sr_1_5?adgrpid=53678625062&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVLp94S7c04a1O2cskKec3LPLYzVCl_cjPCQJHkhUy5FQlHtX1uCXexoC1-0QAvD_BwE&hvadid=275466020602&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=16596870548680301927&hvtargid=aud-854254681907%3Akwd-311626796386&keywords=odin+funko+pop&qid=1583158863&sr=8-5"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Scarlet Witch",
@@ -2471,7 +2523,13 @@
       "name": "Scarlet Witch",
       "id": "4779",
       "url": "http://funko.com/collections/pop/products/pop-marvel-scarlet-witch",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4779_ScarletWitch_hires_large.jpg?v=1429300733"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4779_ScarletWitch_hires_large.jpg?v=1429300733",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Pop-Marvel-Scarlet-Witch-Bobblehead/dp/B00VTIOJJK/ref=sr_1_3?adgrpid=57333968878&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVMJ6CxRIm4E2Mt7kwCTsB870HPYUTGaDIkGjPWti96dBrpyoTJ5GFxoCmEMQAvD_BwE&hvadid=275508385338&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=1079745563352466760&hvtargid=aud-854254681907%3Akwd-300268772291&hydadcr=13174_1805829&keywords=scarlet+witch+funko+pop&qid=1583158906&sr=8-3",
+          "Ebay":"https://www.ebay.es/i/352976428189?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=352976428189&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=116424798&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVAjPdUFZGHIMX_sHPiirEZqwlK8dR_g5YtINrNNYBJ7ufrNUpPXl5xoC8TkQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Silver Surfer",
@@ -2479,7 +2537,13 @@
       "name": "Silver Surfer",
       "id": "3051",
       "url": "http://funko.com/collections/pop/products/pop-marvel-silver-surfer",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Silver_Serfer_POP_GLAM_large.jpg?v=1407197148"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Silver_Serfer_POP_GLAM_large.jpg?v=1407197148",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Ocean-Pacific-Funko-Pdf00003845-figurilla/dp/B00APPF230/ref=sr_1_2?adgrpid=57697998633&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVMEIY6WOyPX9RCBME9NqJUtoIclwSQiuf_ri98lUCAMe7XnaqV5L4hoCUdwQAvD_BwE&hvadid=275342611145&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=10503655291749349533&hvtargid=aud-854254681907%3Akwd-301021005801&hydadcr=16344_1786480&keywords=funko+pop+silver+surfer&qid=1583158979&sr=8-2",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-silver-surfer-marvel-los-cuatro-fantasticos/12219200.html"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Spiderman",
@@ -2487,7 +2551,13 @@
       "name": "Spiderman",
       "id": "2276",
       "url": "http://funko.com/collections/pop/products/pop-marvel-spiderman",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/REG_Classic_Spiderman_Pop_Glam_copy_large.jpg?v=1408724640"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/REG_Classic_Spiderman_Pop_Glam_copy_large.jpg?v=1408724640",
+      "tiendas":[
+        {
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-spider-man-bobble-head-marvel/10949571.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVN0GHDSu0-J430zXMWJFyCtiZrVT9SI4h_990Xt2Znr4zny__IMpkhoC8B8QAvD_BwE&gclsrc=aw.ds",
+          "Ebay":"https://www.ebay.es/i/352834202684?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=352834202684&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=7671260&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVN-xppL6Zq9DR9ywYveLYwK-0GxqVVdAEhc5xE8JYJX9s9_wrGquVxoCaFgQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Wolverine",
@@ -2495,15 +2565,26 @@
       "name": "Wolverine",
       "id": "2277",
       "url": "http://funko.com/collections/pop/products/pop-marvel-wolverine",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/WOLVERINE_POP_GLAM_large.jpg?v=1408724688"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/WOLVERINE_POP_GLAM_large.jpg?v=1408724688",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Marvel-Wolverine/dp/B004R7RBAY/ref=sr_1_2?adgrpid=57869641082&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVI8WLwhpg9DmQZFh7QS1RLO5jx0U_OEd37HDpwvGjTPdZuTvEcD8XxoCAksQAvD_BwE&hvadid=275529604477&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=9366131687865726749&hvtargid=aud-854254681907%3Akwd-300289630291&hydadcr=16369_1789755&keywords=wolverine+funko+pop&qid=1583159118&sr=8-2",
+          "Ebay":"https://www.ebay.es/itm/Pop-Marvel-Funko-Pop-Wolverine-05-Marvel-Universe-bobble-head-pop-Vaulted/352814343722?hash=item52255fa62a:g:NEkAAOSwSkhdSFHl"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Amazing Spider-Man MOVIE 2 - Spider-Man",
       "category": "Marvel",
-      "name": "Spider Man",
+      "name": "The Amazing Spider Man",
       "id": "3780",
       "url": "http://funko.com/collections/pop/products/pop-marvel-amazing-spider-man-movie-2-spider-man",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Spiderman_2_large.jpg?v=1407188466"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Spiderman_2_large.jpg?v=1407188466",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FUNKO-Pop-Marvel-Collectible-collectibles/dp/B00HV8O7MQ"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Amazing Spiderman MOVIE 2 - Electro",
@@ -2511,7 +2592,12 @@
       "name": "Electro",
       "id": "3781",
       "url": "http://funko.com/collections/pop/products/pop-marvel-amazing-spiderman-movie-2-electro",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Electro_large.jpg?v=1407188605"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Electro_large.jpg?v=1407188605",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3781-Spiderman-Figura/dp/B00HV8O7JO/ref=sr_1_2?adgrpid=56267351036&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVESCUc9RNi83Atol0ufxOayTi-yKojbbu_yKgYbD5w6d1hoLsYPolhoCQWcQAvD_BwE&hvadid=275540375708&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=9477744878034588276&hvtargid=aud-854254681907%3Akwd-297541954753&hydadcr=16371_1786549&keywords=funko+pop+electro&qid=1583159256&sr=8-2"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Ant-Man - Ant-Man",
@@ -2519,7 +2605,12 @@
       "name": "Ant Man",
       "id": "4963",
       "url": "http://funko.com/collections/pop/products/pop-marvel-ant-man-ant-man",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4963_AntMAn_POP_large.jpg?v=1429748498"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4963_AntMAn_POP_large.jpg?v=1429748498",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Bobble-Marvel-Ant-Man/dp/B00V8MX8CG/ref=sr_1_19?adgrpid=56499365979&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVPTW2msmFTJGcgewxC1Ous1o7vDIrdn2yyn5QLajoHEj-mGVguVjBxoC7QEQAvD_BwE&hvadid=275344992716&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=14598989521243436495&hvtargid=aud-854254681907%3Akwd-297978135103&hydadcr=16371_1786549&keywords=funko+pop+ant+man&qid=1583159309&sr=8-19"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Ant-Man - Yellowjacket",
@@ -2527,7 +2618,13 @@
       "name": "Yellowjacket",
       "id": "4962",
       "url": "http://funko.com/collections/pop/products/pop-marvel-ant-man-yellowjacket",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4962_YellowJacket_POP_large.jpg?v=1429748539"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4962_YellowJacket_POP_large.jpg?v=1429748539",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Ocean-Pacific-Funko-Figurita-0849803049621/dp/B00V8MX8NA/ref=sr_1_1?adgrpid=57697998633&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVCsITDEszNRpfekOpLvVXyEi6u5rXdDk8e1eKguVk-LiDgvzdxIjjxoCepkQAvD_BwE&hvadid=275368576252&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=2392429696912632398&hvtargid=aud-854254681907%3Akwd-300820082587&hydadcr=16344_1786476&keywords=funko+pop+yellow+jacket&qid=1583159378&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-ANT-MAN-YELLOW-JACKET"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Black Widow",
@@ -2535,7 +2632,13 @@
       "name": "Black Widow",
       "id": "4793",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-black-widow",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4793_Black_Widow_GLAM_large.jpg?v=1438279360"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4793_Black_Widow_GLAM_large.jpg?v=1438279360",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Avengers-Black-Widow-Unisex-Adultos/dp/B00UCHUJBQ",
+          "Ebay":"https://www.ebay.es/c/1444282266"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Captain America",
@@ -2543,7 +2646,13 @@
       "name": "Captain America",
       "id": "4778",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-captain-america",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4778_Avengers_2_Captain_America_hires_large.jpg?v=1417639616"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4778_Avengers_2_Captain_America_hires_large.jpg?v=1417639616",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Avengers-Captain-America/dp/B00SUSU8BA/ref=sr_1_32?adgrpid=71107013948&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVJjyx9eJl586AhaeCtCQeFMfgjd-R8m2Le0WPdtLmCCOeLAqgiweVxoCJtQQAvD_BwE&hvadid=314700357070&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=b&hvrand=17990640847026122028&hvtargid=aud-856220328953%3Akwd-763141746406&hydadcr=16340_1806567&keywords=avengers+age+of+ultron+funko&qid=1583159506&sr=8-32",
+          "Ebay":"https://www.ebay.es/i/264640336782?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=264640336782&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=116424798&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVFLv0nQDgGzCf-NTzjn1FanrlNmpA-GDoGHGyHs9gmT8P1o8NQNkHRoC_0UQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Hawkeye",
@@ -2551,7 +2660,13 @@
       "name": "Hawkeye",
       "id": "4781",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-hawkeye",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4781_Avengers_2_Hawkeye_hires_large.jpg?v=1417639949"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4781_Avengers_2_Hawkeye_hires_large.jpg?v=1417639949",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Desconocido-Funko-Pop-Avengers-Hawkeye/dp/B00SUSUIRE",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-ojo-de-halcon-marvel-vengadores-la-era-de-ultron/11087523.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583159623_528433c90dbf5b7695a02cc71d029829"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Hulk",
@@ -2559,7 +2674,13 @@
       "name": "Hulk",
       "id": "4776",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-hulk",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4776_Avengers_2_Hulk_hires_large.jpg?v=1417639665"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4776_Avengers_2_Hulk_hires_large.jpg?v=1417639665",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Marvel-Avengers/dp/B00SUSUDCO",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-avengers-age-of-ultron-gama-glow-hulk-exclusive-pop-vinyl-figure/11145677.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583159689_9a92bab0c76169c7ff9b3f676b5c8de9"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Iron Man",
@@ -2567,7 +2688,13 @@
       "name": "Iron Man",
       "id": "4777",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-iron-man",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4777_Avengers_2_Iron_Man_hires_large.jpg?v=1417639708"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4777_Avengers_2_Iron_Man_hires_large.jpg?v=1417639708",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/DS-Estatua-Modelo-Avengers-Bobble-Head/dp/B07S7JRQTR/ref=sr_1_11?adgrpid=60379029807&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVDHllw5RLfoHYhS0jHGRHd3WGfn8aVPxFvnR08xBniEEgG3LcRnqJBoC1ccQAvD_BwE&hvadid=279164981001&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=b&hvrand=18294142861312844088&hvtargid=aud-854254681907%3Akwd-300509926229&keywords=funko+pop+avengers+age+of+ultron&qid=1583159744&sr=8-11",
+          "Ebay":"https://www.ebay.es/i/352976434651?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=352976434651&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=116424798&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVDUaIpIuM3CWqEMS2mzHym7pZWXkK9okRt7X8DOrEbaEe1MtwHTFqxoCzYYQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Thor",
@@ -2575,7 +2702,13 @@
       "name": "Thor",
       "id": "4780",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-thor",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4780_Avengers_2_Thor_hires_large.jpg?v=1417639793"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4780_Avengers_2_Thor_hires_large.jpg?v=1417639793",
+      "tiendas":[
+        {
+          "Popcultcha":"https://www.popcultcha.com.au/the-avengers-avengers-2-thor-pop-vinyl-figure.html?mxid=06DFC55DC2634157%2F%2F326864236710%2F0%2F%2Fb%2F65992532878%2Fc%2Faud-303948406738%3Adsa-604939555376%2F%2F9047036%2F%2F&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVIhDMEHo12w8uwOdcB-L1FhKlvjixuZ4FNSFGprungRglXn9xMSXmRoC4MoQAvD_BwE&gclsrc=aw.ds",
+          "Amazon":"https://www.amazon.es/Funko-POP-Bobble-Colecci%C3%B3n-Vengadores/dp/B00SUSUUFY"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Ultron",
@@ -2583,7 +2716,12 @@
       "name": "Ultron",
       "id": "4775",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-ultron",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4775_Avengers_2_Ultron_hires_large.jpg?v=1417639750"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4775_Avengers_2_Ultron_hires_large.jpg?v=1417639750",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Avengers-Ultron-Vinilo-Vengadores/dp/B00SUSU8PG/ref=sr_1_6?adgrpid=60379029807&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVPbkbX8wG6NUn2MFn8bSs74rWj8b_XDnnF8ryWGOjqJMzMmA6VtnJxoC7iwQAvD_BwE&hvadid=279209269568&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=2646466022399532237&hvtargid=aud-854254681907%3Akwd-298916636542&keywords=funko+pop+avengers+age+of+ultron&qid=1583159881&sr=8-6"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Avengers 2 - Vision",
@@ -2591,7 +2729,13 @@
       "name": "Vision",
       "id": "4782",
       "url": "http://funko.com/collections/pop/products/pop-marvel-avengers-2-vision",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4872_Avengers_2_Vision_hires_large.jpg?v=1417639887"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4872_Avengers_2_Vision_hires_large.jpg?v=1417639887",
+      "tiendas":[
+        {
+          "Popcultcha":"https://www.popcultcha.com.au/the-avengers-avengers-2-age-of-ultron-faded-vision-pop-vinyl-figure.html?&mxid=06DFC55DC2634157//326864236713/0//b/65992532878/c/aud-303948406738:dsa-604939555376//9047036//&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVMnSAq_b099aFzd0WrGn-w3B4o8_FGzC9GZgVHbKRZT4wtC6ucotvRoC03wQAvD_BwE&gclsrc=aw.ds",
+          "Ebay":"https://www.ebay.es/i/352976431642?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=352976431642&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=116424798&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVJ6EciLp6enSd6T12vE1oRl0doH5ImXgPGGtO4dCNXTqEE-9c7-bMhoChPkQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Capt. America Movie 2 - Black Widow",
@@ -2599,7 +2743,12 @@
       "name": "Black Widow",
       "id": "3789",
       "url": "http://funko.com/collections/pop/products/pop-heroes-capt-america-movie-2-black-widow",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Black_Widow_POP_large.jpg?v=1407187862"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Black_Widow_POP_large.jpg?v=1407187862",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-PDF00003974-Capit%C3%A1n-Am%C3%A9rica-Fig-head/dp/B00HV8O8BQ/ref=sr_1_6?adgrpid=56937724475&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVHbWVIS-NHkMfnWPw-AMfJSrjG8BfXTG7QhqJjp5lEkop9hs5jxLchoC-4cQAvD_BwE&hvadid=275345341805&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=b&hvrand=13378952867890313528&hvtargid=aud-854254681907%3Akwd-88397143649&hydadcr=16343_1789704&keywords=winter+soldier+funko+pop&qid=1583159986&sr=8-6"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Capt. America Movie 2 - Captain America",
@@ -2607,7 +2756,12 @@
       "name": "Captain America 2",
       "id": "3787",
       "url": "http://funko.com/collections/pop/products/pop-heroes-capt-america-movie-2-capt-america",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Captain_America_2_POP_large.jpg?v=1407186538"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Captain_America_2_POP_large.jpg?v=1407186538",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Capit%C3%A1n-Am%C3%A9rica-Pel%C3%ADcula/dp/B00HV8O7O4/ref=sr_1_6?keywords=FUNKO+POP+MARVEL+%3A+WINTER+SOLDIER&qid=1583160030&sr=8-6"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Capt. America Movie 2 - Winter Soldier",
@@ -2615,7 +2769,12 @@
       "name": "Winter Soldier",
       "id": "3788",
       "url": "http://funko.com/collections/pop/products/pop-marvel-capt-america-movie-2-winter-soldier",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Winter_Solder_Masked_POP_large.jpg?v=1407188184"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Winter_Solder_Masked_POP_large.jpg?v=1407188184",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Figura-Capit%C3%A1n-Am%C3%A9rica-PDF00003976/dp/B00HV8O7PI/ref=sr_1_7?keywords=FUNKO+POP+MARVEL+%3A+WINTER+SOLDIER&qid=1583160030&sr=8-7"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Capt. America Movie 2 - Winter Soldier UNMASKED",
@@ -2623,7 +2782,13 @@
       "name": "Winter Soldier UNMASKED",
       "id": "3884",
       "url": "http://funko.com/collections/pop/products/pop-marvel-capt-america-movie-2-winter-soldier-unmasked",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Winter_Solder_UNMasked_POP_large.jpg?v=1407188370"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Winter_Solder_UNMasked_POP_large.jpg?v=1407188370",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-POP-Marvel-Soldier-Unmasked/dp/B00HV8O8AM/ref=sr_1_4?keywords=FUNKO+POP+MARVEL+%3A+WINTER+SOLDIER&qid=1583160030&sr=8-4",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/captain-america-the-winter-soldier-unmasked-pop-vinyl-figure/11132720.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583165885_250e89c76641456414de5a9e85e082e9"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Dancing Groot",
@@ -2631,7 +2796,13 @@
       "name": "Dancing Groot",
       "id": "5104",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-dancing-groot",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5104_Dancing_Groot_GLAM_large.jpg?v=1414715509"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5104_Dancing_Groot_GLAM_large.jpg?v=1414715509",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Bailando-colecci%C3%B3n-Guardians/dp/B00N1EJXUU/ref=sr_1_1?adgrpid=56243160935&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVLa-ECuWSmdRpva8VBuTgdhKyBfkNycvoDR6P2KXTvrVjrYeBmb29RoCu0wQAvD_BwE&hvadid=275303132826&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=10720482460388252596&hvtargid=aud-854254681907%3Akwd-323445698573&hydadcr=16344_1804039&keywords=funko+pop+groot+dancing&qid=1583166011&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-GDLG-DANCING-GROOT"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Drax",
@@ -2639,7 +2810,13 @@
       "name": "Drax",
       "id": "3794",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-drax",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_DRax_POP_large.jpg?v=1407189236"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_DRax_POP_large.jpg?v=1407189236",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FUNKO-Pop-Marvel-Collectible-Multicolor/dp/B00JEYV124/ref=sr_1_3?adgrpid=58758006600&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVFIogzCeNnyf_R5dijvlucLYixiARKi98CTP0H4CmUvZaufCeduYAxoCs4UQAvD_BwE&hvadid=275310010767&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=15957595148803645264&hvtargid=aud-854254681907%3Akwd-296660690130&hydadcr=16374_1789775&keywords=funko+pop+drax&qid=1583166076&sr=8-3",
+          "Popinabox":"https://www.popinabox.es/merch-figures/guardians-of-the-galaxy-drax-pop-vinyl-figure/10942033.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583166123_f6f7fc0552426ef66e4b4efe3794dea4"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Gamora",
@@ -2647,7 +2824,12 @@
       "name": "Gamora",
       "id": "3795",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-gamora",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Gamora_POP_large.jpg?v=1407189309"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Gamora_POP_large.jpg?v=1407189309",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FUNKO-Pop-Marvel-Collectible-collectibles/dp/B00JEYV156/ref=sr_1_3?adgrpid=58755308560&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVEn5KlCOn13xRvuizYsZQvKqTt6oWkYPKtTuMMWkwCrwFwHAHenrMBoCsj8QAvD_BwE&hvadid=275332123343&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=1095538381648400730&hvtargid=aud-854254681907%3Akwd-295579574336&hydadcr=16372_1789767&keywords=gamora+funko+pop&qid=1583166305&sr=8-3"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Groot",
@@ -2655,7 +2837,12 @@
       "name": "Groot",
       "id": "3793",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-groot",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Groot_POP_large.jpg?v=1407189093"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Groot_POP_large.jpg?v=1407189093",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Guardians-Galaxy-Figura-colecci%C3%B3nPop-Marr%C3%B3n/dp/B00JEYV048/ref=sr_1_36?adgrpid=58943908511&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVBz79To5HidIMdoxABJKDDj9T31-xwx74hPkk7hurQhdYME7ahr3ExoCSAEQAvD_BwE&hvadid=275498419601&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=14034646292190498350&hvtargid=aud-854254681907%3Akwd-300970202361&hydadcr=16373_1789769&keywords=funko+pop+groot&qid=1583166365&sr=8-36"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Nebula",
@@ -2663,7 +2850,12 @@
       "name": "Nebula",
       "id": "5177",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-nebula",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5177_GOTG_Nebula_POP_large.jpg?v=1419876645"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5177_GOTG_Nebula_POP_large.jpg?v=1419876645",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Ocean-Pacific-Guardianes-Nebulosa-original/dp/B00RUE4L18/ref=sr_1_4?adgrpid=52971711981&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKI9lRyXYAxYOoe15Ix7cLAZtZxeyUlralAkGj6da_Q1SeUxgNg89RoCs5gQAvD_BwE&hvadid=275317186248&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=17203499631788648825&hvtargid=aud-854254681907%3Akwd-299459332270&hydadcr=16372_1786550&keywords=funko+pop+nebula&qid=1583166452&sr=8-4"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Rocket",
@@ -2671,7 +2863,13 @@
       "name": "Rocket",
       "id": "3792",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-rocket",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3792_GotG-Rocket-Raccoon-POP_7_15UPDATE_large.jpg?v=1407189538"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3792_GotG-Rocket-Raccoon-POP_7_15UPDATE_large.jpg?v=1407189538",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pop-Guardians-Galaxy-Ravager/dp/B00T7VS8OS/ref=sr_1_2?adgrpid=55591972789&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVLp2TuAlWFa7bMXK-DXnMp9vQ0mmrxIwqXbOPhC38C4NKk8KuIINthoCLx0QAvD_BwE&hvadid=275333643572&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=14787379423577615780&hvtargid=aud-854254681907%3Akwd-300440514149&hydadcr=13146_1805748&keywords=funko+pop+rocket&qid=1583166659&sr=8-2",
+          "Ebay":"https://www.ebay.es/i/171698648984?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=171698648984&targetid=858074030141&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809416&mkgroupid=89579263898&rlsatarget=pla-858074030141&abcId=1139526&merchantid=116377034&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVGySMtnGgOSIPdLQ3KgyGju7hKs7KbwKS2RSPKje8qW0L5nzzwBzgBoCrtIQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Ronan",
@@ -2679,7 +2877,13 @@
       "name": "Ronan",
       "id": "5176",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-ronan",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5176_GOTG_Ronan_POP_large.jpg?v=1419876601"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5176_GOTG_Ronan_POP_large.jpg?v=1419876601",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Marvel-Figura-Vinilo-colecci%C3%B3n-Guardians/dp/B00RUD236Y/ref=sr_1_2?adgrpid=56663382135&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVDd6fQp85qq6BoSKXDohLV8X9PThSZkRK-T-gMBGMVwEQxKJvI522RoCBTUQAvD_BwE&hvadid=278468559118&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=6116644973271229297&hvtargid=aud-854254681907%3Akwd-307923459722&keywords=ronan+funko+pop&qid=1583166512&sr=8-2",
+          "Hot Topic":"https://www.hottopic.com/product/funko-marvel-guardians-of-the-galaxy-pop-ronan-vinyl-bobble-head/10311014.html"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Star Lord",
@@ -2687,7 +2891,13 @@
       "name": "Star Lord",
       "id": "3791",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-star-lord",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Star_Lord_With_Hemet_POP_large.jpg?v=1407189019"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Star_Lord_With_Hemet_POP_large.jpg?v=1407189019",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Guardians-Galaxy-Star-Lord-Figura/dp/B00JEYV08O/ref=sr_1_2?adgrpid=63060247624&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVFX5TPZsMBsDyrFivz9ye8qJ9cvwf-wwa0dby2nmSZW2A-76FY_CiBoCtIEQAvD_BwE&hvadid=275555240820&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=2730737635459098457&hvtargid=aud-854254681907%3Akwd-373484300567&hydadcr=13149_1805757&keywords=funko+pop+star-lord&qid=1583166715&sr=8-2",
+          "Popinabox":"https://www.popinabox.es/merch-figures/marvel-guardians-of-the-galaxy-star-lord-pop-vinyl/10942027.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583166750_42ecbbfeaa72ed05f86b0216c0b90480"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Thanos",
@@ -2695,7 +2905,13 @@
       "name": "Thanos",
       "id": "5105",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-thanos",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5105_GOTG_Thanos_POP_large.jpg?v=1419876507"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5105_GOTG_Thanos_POP_large.jpg?v=1419876507",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Vinyl-Guardianes-Galaxia-Thanos/dp/B00SW5VVH6/ref=sr_1_4?adgrpid=58962832071&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVB_gDmMfPm5mHPhL8etGqk2sgIixxADIMn6q0tXUbesfqH2hefafuRoCtecQAvD_BwE&hvadid=275625705070&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=2303696816836096055&hvtargid=aud-854254681907%3Akwd-297811185258&hydadcr=16372_1789767&keywords=pop+funko+thanos&qid=1583166791&sr=8-4",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-guardianes-de-la-galaxia-thanos-15-cm-pop-vinyl/11070023.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583166822_82de74016886112eebbe2c4cd2ca7125"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - The Collector",
@@ -2703,7 +2919,12 @@
       "name": "The Collector",
       "id": "5178",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-the-collector",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5178_GOTG_Collector_POP_large.jpg?v=1419876717"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5178_GOTG_Collector_POP_large.jpg?v=1419876717",
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.com/itm/FUNKO-POP-THE-COLLECTOR-VAULTED-GUARDIANS-OF-THE-GALAXY-MARVEL-77-FIGURE-NM/202724338823"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Guardians of the Galaxy - Yondu",
@@ -2711,7 +2932,13 @@
       "name": "Yondu",
       "id": "5175",
       "url": "http://funko.com/collections/pop/products/pop-marvel-guardians-of-the-galaxy-yondu",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5175_GOTG_Yondu_POP_large.jpg?v=1419876554"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5175_GOTG_Yondu_POP_large.jpg?v=1419876554",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Ocean-Pacific-Funko-Estatuilla-0849803051754/dp/B00RUCB230/ref=sr_1_2?adgrpid=62675594088&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVNrI8DSHcBeUNqkYSz-IVr5dzC9Sl8BHe9llU6B7X6K-6U8c_l75qhoC6fgQAvD_BwE&hvadid=282380426152&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=11334238000622635510&hvtargid=aud-854254681907%3Akwd-301403776063&hydadcr=16373_1804160&keywords=yondu+funko+pop&qid=1583166952&sr=8-2",
+          "Ebay":"https://www.ebay.es/itm/Funko-Pop-Marvel-Yondu-74-Guardians-of-the-Galaxy-/133259032761"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Guardians of the Galaxy - Howard the Duck",
@@ -2719,7 +2946,13 @@
       "name": "Howard the Duck",
       "id": "5101",
       "url": "http://funko.com/collections/pop/products/pop-movies-guardians-of-the-galaxy-howard-the-duck",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5101_Howard_Duck_GLAM_large.jpg?v=1410217413"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5101_Howard_Duck_GLAM_large.jpg?v=1410217413",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Marvel-Howard-Action/dp/B01M3YV3NT/ref=sr_1_3?adgrpid=55619082425&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVHj80fU-6HOarN2GQPbRRNzOF3ANtG6Iwyv8coxkv4EuhwS0IGRrLRoCiR8QAvD_BwE&hvadid=275400466987&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=7187026072715879564&hvtargid=aud-854254681907%3Akwd-316395382725&hydadcr=16342_1804037&keywords=funko+pop+howard+the+duck&qid=1583167045&sr=8-3",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-guardians-of-the-galaxy-howard-the-duck-pop-vinyl-figure/10991706.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583167077_b6f781215068cc63264564f6cde81d09"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: S.H.I.E.L.D - Agent Coulson",
@@ -2727,15 +2960,13 @@
       "name": "Agent Coulson",
       "id": "4053",
       "url": "http://funko.com/collections/pop/products/pop-marvel-s-h-i-e-l-d-agent-coulson",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Agent_Coulson_POP_large.jpg?v=1407196287"
-    },
-    {
-      "title": "Pop! Marvel: S.H.I.E.L.D. - Melinda May",
-      "category": "Marvel",
-      "name": "Melinda May",
-      "id": "5120",
-      "url": "http://funko.com/collections/pop/products/pop-marvel-s-h-i-e-l-d-melinda-may",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5120_Agents_of_Shield_Melinda_May_hires_2.44.54_PM_large.jpg?v=1428098453"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Agent_Coulson_POP_large.jpg?v=1407196287",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-PDF00004121-Figura-Coulson-Agentes/dp/B00IGAXCFQ/ref=sr_1_3?adgrpid=56267351036&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVMMvYIub4Q4kKgEjz9FOSclBEAfvbeT9FyrOG-Xta_6T-GHKg8S8LxoCXrkQAvD_BwE&hvadid=275540374220&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=17705567270831185078&hvtargid=aud-854254681907%3Akwd-296039581426&hydadcr=16371_1786547&keywords=funko+pop+coulson&qid=1583167120&sr=8-3",
+          "Funkotown":"http://www.funkotown.es/AGENTE-COULSON-CABEZON-10-CM-VINYL-POP-MARVEL-AGENTS"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Thor the Dark World - Dark Elf",
@@ -2743,7 +2974,13 @@
       "name": "Dark Elf",
       "id": "3256",
       "url": "http://funko.com/collections/pop/products/pop-marvel-thor-the-dark-world-movie-dark-elf",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dark_Elf_POP_GLAM_large.jpg?v=1407348943"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dark_Elf_POP_GLAM_large.jpg?v=1407348943",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Pop-Marvel-Thor-World/dp/B00E6MZY1I",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-THOR-2-DARK-ELV"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Thor the Dark World - Loki",
@@ -2751,7 +2988,13 @@
       "name": "Loki Dark World",
       "id": "3228",
       "url": "http://funko.com/collections/pop/products/pop-marvel-thor-the-dark-world-movie-loki",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Loki-Movie2-POP-GLAM_large.jpg?v=1407525041"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Loki-Movie2-POP-GLAM_large.jpg?v=1407525041",
+      "tiendas":[
+        {
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-marvel-thor-the-dark-world-loki",
+          "Amazon":"https://www.amazon.es/Funko-PDF00003984-Figura-Fig-loki-oscuro/dp/B00E6MZY3G"
+        }
+      ]
     },
     {
       "title": "Pop! Marvel: Thor the Dark World - Thor",
@@ -2759,7 +3002,12 @@
       "name": "Thor Dark World",
       "id": "3227",
       "url": "http://funko.com/collections/pop/products/pop-marvel-thor-the-dark-world-movie-2-thor",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Thor_no_helmet_POP_GLAM_large.jpg?v=1407525092"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Thor_no_helmet_POP_GLAM_large.jpg?v=1407525092",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Unisex-Adultos-Funko-Thor-Dark-World/dp/B00LX8FAHQ"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Colossus",
@@ -2767,7 +3015,13 @@
       "name": "Colossus",
       "id": "4470",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-colossus",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4470_X-Men_-_Colossus_hires_large.jpg?v=1411497200"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4470_X-Men_-_Colossus_hires_large.jpg?v=1411497200",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Marvel-Figura-10-Funko-FUNVPOP4470/dp/B00NJVHB2C/ref=sr_1_3?adgrpid=55774814843&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVCs4gyVwNCjN21SFKSS_yVwUTQNtp9kikEHu9NjhgUaLNaDEsNm7jRoC1OkQAvD_BwE&hvadid=275369334955&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=13469889371718700162&hvtargid=aud-854254681907%3Akwd-331593704844&hydadcr=16370_1786546&keywords=funko+pop+colossus&qid=1583167333&sr=8-3",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-x-men-colossus-pop-vinyl-figure/10995967.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583167372_49bf158054c776339a6ab37436f9240f"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Cyclops",
@@ -2775,7 +3029,13 @@
       "name": "Cyclops",
       "id": "4467",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-cyclops",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4467_X-Men_-_Cyclops_hires_large.jpg?v=1411497014"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4467_X-Men_-_Cyclops_hires_large.jpg?v=1411497014",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Marvel-Figura-10-Funko-FUNVPOP4467/dp/B00NJVH94W/ref=sr_1_13?adgrpid=54288487177&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVIhZi9CFgfVowRaavFReegAYXjFIharQpdhL2pJXB8TQC-xhloyOUxoCtIgQAvD_BwE&hvadid=275399724851&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=16481562646150800798&hvtargid=aud-854254681907%3Akwd-300738384925&hydadcr=16371_1786549&keywords=funko+pop+cyclops&qid=1583167406&sr=8-13",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-x-men-ciclope-pop-vinyl-figure/10995966.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583167442_802022b727be590abe5654ac70be10b5"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Magneto",
@@ -2783,7 +3043,12 @@
       "name": "Magneto",
       "id": "4469",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-magneto",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4469_X-Men_-_Magneto_hires_large.jpg?v=1411497134"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4469_X-Men_-_Magneto_hires_large.jpg?v=1411497134",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Bobble-Marvel-Magneto/dp/B00NJVHB04/ref=sr_1_1?adgrpid=51653021970&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVOVlQbFY-8gzO6G4RZrUfn7gftND-RZCAugyQK8X4S4M25m1iAPV2RoChW8QAvD_BwE&hvadid=275299727019&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=15652721173876817425&hvtargid=aud-854254681907%3Akwd-300961768031&hydadcr=16371_1789763&keywords=funko+pop+magneto&qid=1583167646&sr=8-1"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Mystique",
@@ -2791,7 +3056,13 @@
       "name": "Mystique",
       "id": "4471",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-mystique",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4471_X-Men_-_Mystique_hires_large.jpg?v=1411497248"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4471_X-Men_-_Mystique_hires_large.jpg?v=1411497248",
+      "tiendas":[
+        {
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-marvel-x-men-mystique",
+          "Popcultcha":"https://www.popcultcha.com.au/x-men-mystique-pop-vinyl-figure.html"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Professor X",
@@ -2799,7 +3070,13 @@
       "name": "Professor X",
       "id": "4468",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-professor-x",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4468_X-Men_-_Professor_X_hires_large.jpg?v=1411497080"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4468_X-Men_-_Professor_X_hires_large.jpg?v=1411497080",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Marvel-Figura-10-Funko-FUNVPOP4468/dp/B00NJVHAWS/ref=sr_1_1?adgrpid=58124088193&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVFVxZa1-5lec4HQeXoloQicriQD5Vr62YJUt4-fgmbdGcOMQXV1cSxoCeMcQAvD_BwE&hvadid=278507672819&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=3787298456274812344&hvtargid=aud-854254681907%3Akwd-502834063807&hydadcr=16347_1786501&keywords=funko+pop+profesor+x&qid=1583167767&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/marvel-x-men-profesor-x-pop-vinyl-figure/10995962.html"
+        }
+      ]
     },
     {
       "title": "POP! Marvel: X-Men - Storm",
@@ -2807,7 +3084,12 @@
       "name": "Storm",
       "id": "4472",
       "url": "http://funko.com/collections/pop/products/pop-marvel-x-men-storm",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4472_X-Men_-_Storm_hires_large.jpg?v=1411497299"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4472_X-Men_-_Storm_hires_large.jpg?v=1411497299",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Marvel-Figura-10-Funko-FUNVPOP4472/dp/B00NJVH8PW/ref=sr_1_3?adgrpid=60259682310&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVJR4rHBvQWD4pbsEVXOSERUsb4-rFuATRFrvWNSC_dwX067Q_USVFRoCOUcQAvD_BwE&hvadid=275449671062&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=10706903753211181798&hvtargid=aud-854254681907%3Akwd-295368498462&hydadcr=13145_1805745&keywords=funko+pop+storm&qid=1583167839&sr=8-3"
+        }
+      ]
     }
   ],
   "Alien":[
@@ -2817,7 +3099,14 @@
       "name": "Alien",
       "id": "3143",
       "url": "http://funko.com/collections/pop/products/pop-movies-alien-alien",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/AlienPOPGlam800_large.jpg?v=1435255677"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/AlienPOPGlam800_large.jpg?v=1435255677",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Movies-Alien/dp/B00BUY54DI/ref=sr_1_2?adgrpid=55592534589&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVLnRniRe7ivZNpEE5BKDKRpyvoHQt5qlMwT5E3FLt6HVHPZo5YmMHhoCfvUQAvD_BwE&hvadid=275338712567&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=18139915529631242855&hvtargid=aud-854254681907%3Akwd-295710153079&hydadcr=13145_1805745&keywords=funko+pop+alien&qid=1583167932&sr=8-2",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-alien-alien-el-octavo-pasajero/10916223.html",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-pop-vinyl-alien-alien-el-octavo-pasajero/10916223.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2for15popvinyl&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA-vLyBRBWEiwAzOkGVJoz0XRk7dHaslQxmkV56jkYhDA9aytYgbIbJ-M9MLMtJxRJkboS6RoCZUcQAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     }
   ],
   "Back To The Future":[
