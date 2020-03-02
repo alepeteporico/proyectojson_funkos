@@ -62,5 +62,5 @@ def ej5_3(datos,figura,tienda):
         for figuras in datos[licencias]:
             if figuras["name"]==figura:
                 for tiendas in figuras.get("tiendas"):
-                    online=tiendas.get(tienda)
+                    online=tiendas[tienda]
                     return online
