@@ -3116,7 +3116,13 @@
       "name": "Delorean",
       "id": "3401",
       "url": "http://funko.com/collections/pop/products/pop-movies-back-to-the-future-delorean",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Delorian_POP_GLAM_large.jpg?v=1406937501"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Delorian_POP_GLAM_large.jpg?v=1406937501",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3401-Figura-PDF00004093/dp/B00FRHAMZE/ref=sr_1_1?adgrpid=56458040376&gclid=CjwKCAiA44LzBRB-EiwA-jJipNlUDxkqGbVF4zJ0zlJO58hpx1Qz3KmwcukvkxHE2umcNGd5vOyyQRoC4HUQAvD_BwE&hvadid=275327841980&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=16166341311572123927&hvtargid=aud-854254681907%3Akwd-491561679512&hydadcr=16370_1786544&keywords=funko+pop+delorean&qid=1583401541&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-BTTF-DELOREAN-RIDES"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Back to the Future - Dr. Emmet Brown",
@@ -3124,7 +3130,13 @@
       "name": "Dr. Emmet Brown",
       "id": "3399",
       "url": "http://funko.com/collections/pop/products/pop-movies-back-to-the-future-dr-emmet-brown",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dr._Emmet_Brown_POP_GLAM_large.jpg?v=1406922189"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dr._Emmet_Brown_POP_GLAM_large.jpg?v=1406922189",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-BTTF-Brown/dp/B00BW0RE1U/ref=sr_1_1?adgrpid=51655509530&gclid=CjwKCAiA44LzBRB-EiwA-jJipHEXUeM0Oks5BF-JqlaH02F9qFg4qI8I244GJca75grK_q4LoEyzwhoC6b0QAvD_BwE&hvadid=275365774255&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=5494118986421473477&hvtargid=aud-854254681907%3Akwd-411687402167&hydadcr=16346_1786491&keywords=funko+pop+emmet+brown&qid=1583401625&sr=8-1",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-dr.-emmet-brown-regreso-al-futuro/10949636.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA44LzBRB-EiwA-jJipPFOoCMJMpZZ9rgAzLvdjAKilTMR-5uIapqJi5CJIu6Q57dGquxyHBoC__wQAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Back to the Future - Marty McFly",
@@ -3132,7 +3144,13 @@
       "name": "Marty McFly",
       "id": "3400",
       "url": "http://funko.com/collections/pop/products/pop-movies-back-to-the-future-marty-mcfly",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mc_Fly_POP_GLAM_large.jpg?v=1406922208"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mc_Fly_POP_GLAM_large.jpg?v=1406922208",
+      "tiendas":[
+        {
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-pop-vinyl-marty-mcfly-regreso-al-futuro/10949637.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA44LzBRB-EiwA-jJipGh_PPymvGiXo6TWCduu4UyVU3TDTAEh6LzIisyNCc67EihXMHiOsRoCmkkQAvD_BwE&gclsrc=aw.ds",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-marty-mcfly-regreso-al-futuro/10949637.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&gclid=CjwKCAiA44LzBRB-EiwA-jJipNwn1dGu5cKQrrnTB74TSdDG7ltDKHA3A11UTAE1imlEqg3cQW0QAhoC0S8QAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     }
   ],
   "Despicable Me":[
@@ -3142,7 +3160,13 @@
       "name": "Agnes",
       "id": "3368",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-agnes",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Agnes_POP_GLAM_large.jpg?v=1406922225"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Agnes_POP_GLAM_large.jpg?v=1406922225",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/despicable-me-2-agnes-pop-vinyl-figure/10969514.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583401775_78488c4b3d3ab52332c110406bde8caa",
+          "Amazon":"https://www.amazon.es/FunKo-Despicable-Collectible-colecci%C3%B3n-Multicolor/dp/B00BV1OUN0/ref=sr_1_3?adgrpid=55592534589&gclid=CjwKCAiA44LzBRB-EiwA-jJipGIOmsuSFj0fpjC7wtXncTW1chhWXu0CA_O-cjvU_fNwbpZ9xxrN9RoCQ0QQAvD_BwE&hvadid=275338712567&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=4266464212122900152&hvtargid=aud-854254681907%3Akwd-488876838912&hydadcr=13145_1805745&keywords=agnes+funko+pop&qid=1583401796&sr=8-3"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Despicable Me - Carl",
@@ -3150,7 +3174,12 @@
       "name": "Carl",
       "id": "3370",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-carl",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Carl_POP_GLAM_large.jpg?v=1406922245"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Carl_POP_GLAM_large.jpg?v=1406922245",
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.es/i/174041795842?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=174041795842&targetid=858074030141&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809416&mkgroupid=89579263898&rlsatarget=pla-858074030141&abcId=1139526&merchantid=116401242&gclid=CjwKCAiA44LzBRB-EiwA-jJipMxSvE6v_pQOaEhcV-m8Rd1Vth6G2W7rta3mFlyYT-Eou26IDs8aPRoC1FsQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Despicable Me - Dave",
@@ -3158,7 +3187,13 @@
       "name": "Dave",
       "id": "3371",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-dave",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Dave_POP_GLAM_large.jpg?v=1406922261"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Dave_POP_GLAM_large.jpg?v=1406922261",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Despicable-Minion-Vinilo-Figura/dp/B00JJNAJ0A/ref=sr_1_5?adgrpid=62590718835&gclid=CjwKCAiA44LzBRB-EiwA-jJipGXPvWygXOHfrplHqZowejhClH_hAVEiHIAVv9OnbA53C7n3eEUUJhoCFQUQAvD_BwE&hvadid=311019616038&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=b&hvrand=9417689446072203794&hvtargid=aud-854254681907%3Akwd-330700057118&hydadcr=16347_1789723&keywords=funko+pop+despicable&qid=1583401881&sr=8-5",
+          "Ebay":"https://www.ebay.es/i/183968138855?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=183968138855&targetid=886489978271&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=9557020799&mkgroupid=96933668343&rlsatarget=pla-886489978271&abcId=1139526&merchantid=116401242&gclid=CjwKCAiA44LzBRB-EiwA-jJipEZqFx948g32oR-_iUDsu3wMqhQjPXeIKvYcQom5ycMEyM_BotMr-RoCytUQAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Despicable Me - Evil Minion",
@@ -3166,7 +3201,13 @@
       "name": "Evil Minion",
       "id": "3392",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-evil-minion",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Evil_Minion_POP_GLAM_large.jpg?v=1406922281"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Evil_Minion_POP_GLAM_large.jpg?v=1406922281",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Despicable-Collectible-colecci%C3%B3n-Multicolor/dp/B00CRSPQ98",
+          "Popinabox":"https://www.popinabox.es/merch-figures/despicable-me-2-purple-minion-pop-vinyl-figure/10938559.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583401995_c5b9ef94be8660ffd847e44785003bcc"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Despicable Me - Gru",
@@ -3174,7 +3215,12 @@
       "name": "Gru",
       "id": "3369",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-gru",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Gru_POP_GLAM_large.jpg?v=1406922391"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DM2_Gru_POP_GLAM_large.jpg?v=1406922391",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3369-Figura-villano-favorito/dp/B00BV1OSYQ/ref=sr_1_12?adgrpid=57693102193&gclid=CjwKCAiA44LzBRB-EiwA-jJipNVuwI-qyaj5kaNPYeSOy8SXETRdc0CoA3bS5n3p9P4Iv-lZNywRyRoCv4IQAvD_BwE&hvadid=275292263217&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=94362355455204500&hvtargid=aud-854254681907%3Akwd-301041595641&hydadcr=13143_1805736&keywords=funko+pop+gru&qid=1583402036&sr=8-12"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Despicable Me - Hula Minion",
@@ -3182,7 +3228,13 @@
       "name": "Hula Minion",
       "id": "4283",
       "url": "http://funko.com/collections/pop/products/pop-movies-despicable-me-hula-minion",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4283_Hula_Minion_GLAM_large.jpg?v=1412112410"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4283_Hula_Minion_GLAM_large.jpg?v=1412112410",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinilo-Despicable-Hula-Minion/dp/B00O2EQIVA/ref=sr_1_1?adgrpid=54701586445&gclid=CjwKCAiA44LzBRB-EiwA-jJipKJ2NV2aQkjjEivbv5WaxpD4lGDLAT-VbDRSi2H5ydYh1jNdUojxxRoCe2wQAvD_BwE&hvadid=275722122635&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=6923489300032869706&hvtargid=aud-854254681907%3Akwd-312040181508&hydadcr=13172_1805819&keywords=funko+pop+hula+minion&qid=1583402113&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/gru-mi-villano-favorito-hula-minion-pop-vinyl-figure/11028457.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583402152_d6be0ecced1d00c39b1eccdf06c62a7f"
+        }
+      ]
     }
   ],
   "E.T":[
@@ -3192,7 +3244,13 @@
       "name": "E.T.",
       "id": "4182",
       "url": "http://funko.com/collections/pop/products/pop-movies-e-t-e-t",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4182_ET_GLAM_large.jpg?v=1410214758"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4182_ET_GLAM_large.jpg?v=1410214758",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Movies-E-T/dp/B00M28CTHA",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-ET-ET-EL-EXTRATERRESTR"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: E.T. - Elliott",
@@ -3200,7 +3258,13 @@
       "name": "Elliott",
       "id": "4183",
       "url": "http://funko.com/collections/pop/products/pop-movies-e-t-elliott",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4183_Elliott_GLAM_large.jpg?v=1414715638"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4183_Elliott_GLAM_large.jpg?v=1414715638",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Figura-cabeza-m%C3%B3vil-FK4183/dp/B00M28FEKE",
+          "Walmart":"https://www.walmart.com/ip/Funko-Pop-Movies-E-T-Elliot/44939071"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: E.T. - Gertie",
@@ -3208,7 +3272,13 @@
       "name": "Gertie",
       "id": "4184",
       "url": "http://funko.com/collections/pop/products/pop-movies-e-t-gertie",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4184_Gertie_GLAM_large.jpg?v=1410214870"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4184_Gertie_GLAM_large.jpg?v=1410214870",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Gertie-Funko-T-Extra-Terrestrial-Figure/dp/B01HNLIA7S",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/e.t-gertie-pop-vinyl-figure/10998025.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583402429_655a22a3745d18315327c6183fc6c6ed"
+        }
+      ]
     }
   ],
   "Gremlins":[
@@ -3218,7 +3288,13 @@
       "name": "Gizmo",
       "id": "2372",
       "url": "http://funko.com/collections/pop/products/pop-movies-gremlins-gizmo",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GIZMO_POP_GLAM_large.jpg?v=1408727700"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GIZMO_POP_GLAM_large.jpg?v=1408727700",
+      "tiendas":[
+        {
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-pop-vinyl-gizmo-gremlins/10949538.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA44LzBRB-EiwA-jJipJ5n5cdxJJWLeC8MBKG6DT68V99DvJqITnkbIOei6blLMxbbQfWwWhoC9y4QAvD_BwE&gclsrc=aw.ds",
+          "Amazon":"https://www.amazon.es/FunKo-Figurine-Gremlins-Gizmo-0830395023724/dp/B00523M5MQ"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Gremlins - Gremlin",
@@ -3226,7 +3302,12 @@
       "name": "Gremlin",
       "id": "2288",
       "url": "http://funko.com/collections/pop/products/pop-movies-gremlins-gremlin",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GREMLINS_POP_GLAM_large.jpg?v=1408727717"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/GREMLINS_POP_GLAM_large.jpg?v=1408727717",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Movies-Gremlins/dp/B004GFNKR0"
+        }
+      ]
     }
   ],
   "Harry Potter":[
@@ -3236,7 +3317,13 @@
       "name": "Albus Dumbledore",
       "id": "5863",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-albus-dumbledore",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5891_HP_Dumbledore_hires_large.jpg?v=1429144010"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5891_HP_Dumbledore_hires_large.jpg?v=1429144010",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Dumbledore-Figura-colecci%C3%B3n/dp/B00TQ4RXTW",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-albus-dumbledore-harry-potter/11087416.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-323889&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=Kiesproduct+%22Google+Shopping+traffic%22&utm_term=Direct+Linking&utm_source=AWin-323889&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583402640_27ed87c7505b29132ff73eed32189907"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Harry Potter",
@@ -3244,7 +3331,13 @@
       "name": "Harry Potter",
       "id": "5858",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-harry-potter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5858_HP_Harry_hires_large.jpg?v=1429143677"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5858_HP_Harry_hires_large.jpg?v=1429143677",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-harry-potter-harry-potter/11087411.html",
+          "Amazon":"https://www.amazon.es/FunKo-Vinilo-Colecci%C3%B3n-Harry-Potter/dp/B00TQ6RORQ"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Hermione Granger",
@@ -3252,7 +3345,13 @@
       "name": "Hermione Granger",
       "id": "5860",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-hermoine-granger",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5860_HP_Hermoine_hires_large.jpg?v=1429143786"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5860_HP_Hermoine_hires_large.jpg?v=1429143786",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Vinilo-Colecci%C3%B3n-Harry-Potter/dp/B00TQ4ZSFS",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-pop-vinyl-hermione-granger-harry-potter/11087412.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA44LzBRB-EiwA-jJipDAskbyOSl-m_v3xearxao9GLYg79-bJ7LmBbzeBfW-XC4dt4ICL9hoCNi4QAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Lord Voldemort",
@@ -3260,7 +3359,13 @@
       "name": "Lord Voldemort",
       "id": "5861",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-lord-voldemort",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5861_HP_Voldemort_hires_large.jpg?v=1429143831"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5861_HP_Voldemort_hires_large.jpg?v=1429143831",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Voldemort-figura-vinilo-colecci%C3%B3n/dp/B00TQ5S6D8",
+          "Fnac":"https://www.fnac.es/a1200079/Figura-Funko-Harry-Potter-Lord-Voldemort-Figura"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Ron Weasley",
@@ -3268,7 +3373,13 @@
       "name": "Ron Weasley",
       "id": "5859",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-ron-weasley",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5859_HP_Ron_hires_large.jpg?v=1429143736"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5859_HP_Ron_hires_large.jpg?v=1429143736",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Vinilo-Colecci%C3%B3n-Harry-Potter/dp/B00TQ5EXQM/ref=sr_1_2?keywords=funko+ron+weasley&qid=1583402972&sr=8-2",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-ron-weasley-harry-potter/11087413.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=CjwKCAiA44LzBRB-EiwA-jJipOKNDYPRVwMeH7VvVckDue6FlfQ0xjuY0Vna7OlItfpXRTCA0wJx4RoCa4QQAvD_BwE&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Rubeus Hagrid",
@@ -3276,7 +3387,13 @@
       "name": "Rubeus Hagrid",
       "id": "5864",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-rubeus-hagrid",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5864_HP_Hagrid_hires_large.jpg?v=1429143944"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5864_HP_Hagrid_hires_large.jpg?v=1429143944",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Potter-Rubeus-Hagrid/dp/B00TQ7BEUS",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-funko-pop-rubeus-hagrid-harry-potter/11088799.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Harry Potter - Severus Snape",
@@ -3284,7 +3401,14 @@
       "name": "Severus Snape",
       "id": "5862",
       "url": "http://funko.com/collections/pop/products/pop-movies-harry-potter-severus-snape",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5862_HP_Snape_hires_large.jpg?v=1429143888"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5862_HP_Snape_hires_large.jpg?v=1429143888",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Vinilo-Colecci%C3%B3n-Harry-Potter/dp/B00TQ5KPNC",
+          "Fnac":"https://www.fnac.es/a1200080/Figura-Funko-Harry-Potter-Severus-Snape-Figura",
+          "Carrefour":"https://www.carrefour.es/funko-pop-harry-potter-severus-snape/0849803058623/p"
+        }
+      ]
     }
   ],
   "Kill Bill":[
@@ -3294,7 +3418,12 @@
       "name": "Bill",
       "id": "4024",
       "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-bill",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4024_Kill_Bill_-_Bill_GLAM_large.jpg?v=1406922760"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4024_Kill_Bill_-_Bill_GLAM_large.jpg?v=1406922760",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Bill-Funko-Kill-Vinyl-Figure/dp/B01C6MP80G/ref=sr_1_6?adgrpid=63060247624&gclid=CjwKCAiA44LzBRB-EiwA-jJipGHsln1OoQfejBnAtB5lMRMLczAHa3sH7psfCh8Xc_GPZ7PDoALr4RoCuLIQAvD_BwE&hvadid=275555240820&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=3334105841526476342&hvtargid=aud-854254681907%3Akwd-299604967359&hydadcr=13149_1805757&keywords=funko+pop+kill+bill&qid=1583403262&sr=8-6"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Kill Bill - Crazy 88",
@@ -3302,7 +3431,13 @@
       "name": "Crazy 88",
       "id": "3356",
       "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-crazy-88",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3356_Kill_Bill_-_Crazy_88_GLAM_large.jpg?v=1406922779"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3356_Kill_Bill_-_Crazy_88_GLAM_large.jpg?v=1406922779",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Accesorio-para-playsets/dp/B00BW0RJCO/ref=sr_1_3?adgrpid=63060247624&gclid=CjwKCAiA44LzBRB-EiwA-jJipGHsln1OoQfejBnAtB5lMRMLczAHa3sH7psfCh8Xc_GPZ7PDoALr4RoCuLIQAvD_BwE&hvadid=275555240820&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=3334105841526476342&hvtargid=aud-854254681907%3Akwd-299604967359&hydadcr=13149_1805757&keywords=funko+pop+kill+bill&qid=1583403262&sr=8-3",
+          "Ebay":"https://www.ebay.es/i/184133409121?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=184133409121&targetid=856157574650&device=c&mktype=pla&googleloc=9047036&poi=&campaignid=1670809419&mkgroupid=88302374615&rlsatarget=pla-856157574650&abcId=1139526&merchantid=116391778&gclid=CjwKCAiA44LzBRB-EiwA-jJipDAqbIu9pfT7cKn0lIUo6FAzn9zpDxg4GX89C9ze3DlF6_oB-iYmcxoCo60QAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Kill Bill - Gogo Yubari",
@@ -3310,15 +3445,13 @@
       "name": "Gogo Yubari",
       "id": "3355",
       "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-gogo-yubari",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3355_Kill_Bill_-_Gogo_Yubari_GLAM_large.jpg?v=1406922795"
-    },
-    {
-      "title": "Pop! Movies: Kill Bill - O-Ren Ishii",
-      "category": "Movies",
-      "name": "O-Ren Ishii",
-      "id": "3354",
-      "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-o-ren-ishii",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3354_Kill_Bill_-_O-Ren_Ishii_GLAM_large.jpg?v=1406922836"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3355_Kill_Bill_-_Gogo_Yubari_GLAM_large.jpg?v=1406922795",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-FK3355-Figura-cabeza-Yubari/dp/B00BW0RJDI",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-KILL-BILL-GOGO-YUBARI"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Kill Bill - The Bride",
@@ -3326,7 +3459,12 @@
       "name": "The Bride",
       "id": "3353",
       "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-the-bride",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3353_Kill_Bill_-_Beatrix_Kiddo_GLAM_large.jpg?v=1406922854"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3353_Kill_Bill_-_Beatrix_Kiddo_GLAM_large.jpg?v=1406922854",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pdf00004103-Figurita-Beatrix-Fig-head/dp/B00BW0RJ9C/ref=sr_1_20?adgrpid=54757752377&gclid=CjwKCAiA44LzBRB-EiwA-jJipKK_cPXnFa1ybYpo3zwbeMZ5MoTWcYQIMLB5cM6AGBkaz01HRU84LBoCdG4QAvD_BwE&hvadid=278672981487&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=3242579621049174124&hvtargid=aud-854254681907%3Akwd-375819208446&keywords=funko+pop+bride&qid=1583405384&sr=8-20"
+        }
+      ]
     }
   ],
   "Monty Python":[
@@ -3336,7 +3474,13 @@
       "name": "Black Knight",
       "id": "5379",
       "url": "http://funko.com/collections/pop/products/pop-movies-monty-python-and-the-holy-grail-black-knight",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5379_BlackNight_GLAM_large.jpg?v=1438278701"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5379_BlackNight_GLAM_large.jpg?v=1438278701",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pop-Python-Knight-Protective/dp/B01MCUWMZG",
+          "Ebay":"https://www.ebay.es/itm/402040467496"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Monty Python and the Holy Grail - French Taunter",
@@ -3344,7 +3488,13 @@
       "name": "French Taunter",
       "id": "5383",
       "url": "http://funko.com/collections/pop/products/pop-movies-monty-python-and-the-holy-grail-french-taunter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5383_FrenchTaunter_GLAM_large.jpg?v=1438278809"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5383_FrenchTaunter_GLAM_large.jpg?v=1438278809",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Python-French-Taunter-Figure/dp/B017CETTW6",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/monty-python-and-the-holy-grail-french-taunter-pop-vinyl-figure/11156731.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Monty Python and the Holy Grail - King Arthur",
@@ -3352,7 +3502,13 @@
       "name": "King Arthur",
       "id": "5382",
       "url": "http://funko.com/collections/pop/products/pop-movies-monty-python-and-the-holy-grail-king-arthur",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5382_KingArthur_GLAM_large.jpg?v=1438278756"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5382_KingArthur_GLAM_large.jpg?v=1438278756",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-King-Arthur-protectores-compatibles/dp/B07N95P5NH",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/monty-python-y-los-caballeros-de-la-mesa-cuadrada-pop-movies-figura-king-arthur/11156733.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583405646_207f6dc97db93da1378bc0d45b19cb33"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Monty Python and the Holy Grail - Sir Bedevere",
@@ -3360,7 +3516,13 @@
       "name": "Sir Bedevere",
       "id": "5385",
       "url": "http://funko.com/collections/pop/products/pop-movies-monty-python-and-the-holy-grail-sir-bedevere",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5385_SirBedevere_GLAM_large.jpg?v=1438278859"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5385_SirBedevere_GLAM_large.jpg?v=1438278859",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Monty-Python-caballeros-cuadrada-Bedevere/dp/B00VJ279D4",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/monty-python-and-the-holy-grail-sir-bedevere-pop-vinyl-figure/11156734.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Monty Python and the Holy Grail - Tim the Enchanter",
@@ -3368,7 +3530,12 @@
       "name": "Tim the Enchanter",
       "id": "5381",
       "url": "http://funko.com/collections/pop/products/pop-movies-monty-python-and-the-holy-grail-tim-the-enchanter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5381_Tim_GLAM_large.jpg?v=1438278729"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5381_Tim_GLAM_large.jpg?v=1438278729",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/Funko-Pop-Monty-Python-Enchanter/dp/B00VJ1CYE4"
+        }
+      ]
     }
   ],
   "Penguins Of Madagascar":[
@@ -3378,7 +3545,13 @@
       "name": "Kowalski",
       "id": "5278",
       "url": "http://funko.com/collections/pop/products/pop-movies-penguins-of-madagascar-kowalski",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5278_Kowalski_POP_large.jpg?v=1419962460"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5278_Kowalski_POP_large.jpg?v=1419962460",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Funko-Madagascar-0849803052782/dp/B00Q5OL5MW/ref=sr_1_2?adgrpid=67333739975&gclid=CjwKCAiA44LzBRB-EiwA-jJipIX8NDX3qvdWIb3g5z5K56T1dwH8pLEOBK2uKyP6PovGuUKYjNrQvxoCe0UQAvD_BwE&hvadid=335018454229&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=11044756212925585081&hvtargid=aud-856220328953%3Akwd-409481964394&hydadcr=16374_1786558&keywords=kowalski+funko&qid=1583405815&sr=8-2",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/penguins-of-madagascar-kowalski-pop-vinyl-figure/11048356.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583405859_af08091d889849446a9dba7b51fbce02"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Penguins of Madagascar - Private",
@@ -3386,7 +3559,13 @@
       "name": "Private",
       "id": "5280",
       "url": "http://funko.com/collections/pop/products/pop-movies-penguins-of-madagascar-private",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5280_Private_POP_large.jpg?v=1419962419"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5280_Private_POP_large.jpg?v=1419962419",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/penguins-of-madagascar-private-pop-vinyl-figure/11048358.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583405907_7a4e045fd8b2f65a13dc7ac1183d601f",
+          "Amazon":"https://www.amazon.es/Funko-Pop-Movies-Penguins-Madagascar-Private/dp/B00TT8507C"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Penguins of Madagascar - Rico",
@@ -3394,7 +3573,13 @@
       "name": "Rico",
       "id": "5277",
       "url": "http://funko.com/collections/pop/products/pop-movies-penguins-of-madagascar-rico",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5277_Rico_POP_large.jpg?v=1419962541"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5277_Rico_POP_large.jpg?v=1419962541",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Funko-Madagascar-0849803052775/dp/B00Q5OVD56",
+          "Ebay":"https://www.ebay.es/i/293347217343?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=293347217343&targetid=886489978271&device=c&mktype=pla&googleloc=1005421&poi=&campaignid=9557020799&mkgroupid=96933668343&rlsatarget=pla-886489978271&abcId=1139526&merchantid=7671260&gclid=CjwKCAiA44LzBRB-EiwA-jJipG4ez7wLZFN_uHpLa-XrIWQtai4rfWf2x9BBPSUdDsCirUGvMyuKNxoCIR4QAvD_BwE"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Penguins of Madagascar - Short Fuse",
@@ -3402,7 +3587,13 @@
       "name": "Short Fuse",
       "id": "5582",
       "url": "http://funko.com/collections/pop/products/pop-movies-penguins-of-madagascar-short-fuse",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5582_Short_Fuse_POP_large.jpg?v=1435256028"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5582_Short_Fuse_POP_large.jpg?v=1435256028",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-No-ping%C3%BCinos-Madagascar/dp/B00Q5PK8TC",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/los-pinguinos-de-madagascar-pop-vinyl-figura-short-fuse/11048359.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Penguins of Madagascar - Skipper",
@@ -3410,7 +3601,13 @@
       "name": "Skipper",
       "id": "5279",
       "url": "http://funko.com/collections/pop/products/pop-movies-penguins-of-madagascar-skipper",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5279_Skipper_POP_large.jpg?v=1419962500"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5279_Skipper_POP_large.jpg?v=1419962500",
+      "tiendas":[
+        {
+          "Amazon":"https://m.media-amazon.com/images/I/51U7jIr2RIL._AC_UL320_ML3_.jpg",
+          "Ebay":"https://www.ebay.es/i/293373072661?chn=ps&norover=1&mkevt=1&mkrid=1185-146825-5486-0&mkcid=2&itemid=293373072661&targetid=886489978271&device=c&mktype=pla&googleloc=1005421&poi=&campaignid=9557020799&mkgroupid=96933668343&rlsatarget=pla-886489978271&abcId=1139526&merchantid=7671260&gclid=CjwKCAiA44LzBRB-EiwA-jJipMctyZl7e8cnl-vUbnm_3zw5MFeADSTo9LC7RpYGMvMeaih3VoSkQxoCdsQQAvD_BwE"
+        }
+      ]
     }
   ],
   "Planet Of The Apes":[
@@ -3420,7 +3617,13 @@
       "name": "Ape Soldier",
       "id": "3147",
       "url": "http://funko.com/collections/pop/products/pop-movies-planet-of-the-apes-ape-soldier",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SoldierPOP_GLAM_large.jpg?v=1406922907"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SoldierPOP_GLAM_large.jpg?v=1406922907",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Movies-Soldier-Planet-Figure/dp/B00BW0RI7U",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/planet-of-the-apes-ape-soldier-pop-vinyl-figure/10988813.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Planet of the Apes - Dr. Zaius",
@@ -3428,7 +3631,13 @@
       "name": "Dr. Zaius",
       "id": "3146",
       "url": "http://funko.com/collections/pop/products/pop-movies-planet-of-the-apes-dr-zaius",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DrZaius_POP_GLAM_large.jpg?v=1406922967"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DrZaius_POP_GLAM_large.jpg?v=1406922967",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/planeta-simios-Zaius-Figura-Vinilo/dp/B00BW0RIAM",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/planet-of-the-apes-dr.-zaius-pop-vinyl-figure/10988814.html"
+        }
+      ]
     }
   ],
   "Pulp Fiction":[
@@ -3438,7 +3647,13 @@
       "name": "Butch",
       "id": "4114",
       "url": "http://funko.com/collections/pop/products/pop-movies-pulp-fiction-butch",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4114_Butch_Pop_Glam_large.jpg?v=1420742642"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4114_Butch_Pop_Glam_large.jpg?v=1420742642",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pdf00004108-Fiction-Coolidge-Figura/dp/B00MOHJ9O0",
+          "Funkotown":"http://www.funkotown.es/BUTCH-COOLIDGE-FIG10-CM-VINYL-POP-PULP-FICTION"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Pulp Fiction - Jimmie",
@@ -3446,7 +3661,13 @@
       "name": "Jimmie",
       "id": "4015",
       "url": "http://funko.com/collections/pop/products/pop-movies-pulp-fiction-jimmie",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jimmie_Pop_Glam_large.jpg?v=1414715773"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jimmie_Pop_Glam_large.jpg?v=1414715773",
+      "tiendas":[
+        {
+          "Funkotown":"http://www.funkotown.es/JIMMIE-DIMMICK-FIG10-CM-VINYL-POP-PULP-FICTION",
+          "Amazon":"https://www.amazon.es/Fiction-Jimmie-Dimmick-figura-acci%C3%B3n/dp/B00T4JN9MY"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Pulp Fiction - Jules",
@@ -3454,7 +3675,13 @@
       "name": "Jules",
       "id": "3358",
       "url": "http://funko.com/collections/pop/products/pop-movies-pulp-fiction-jules",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/JulesPop_Glam_large.jpg?v=1414715910"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/JulesPop_Glam_large.jpg?v=1414715910",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Unisex-Adultos-Funko-Pulp-Fiction-Pop/dp/B00L1KH8XK",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/pulp-fiction-jules-winnifield-pop-vinyl-figure/10916320.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Pulp Fiction - Mia Wallace",
@@ -3462,7 +3689,13 @@
       "name": "Mia Wallace",
       "id": "3359",
       "url": "http://funko.com/collections/pop/products/pop-movies-pulp-fiction-mia-wallace",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/MiaWallacePop_Glam_large.jpg?v=1414715833"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/MiaWallacePop_Glam_large.jpg?v=1414715833",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-3359-Figura-Head-Wallace/dp/B00BW0RK78",
+          "Funkotown":"http://www.funkotown.es/MIA-WALLACE-FIG10-CM-VINYL-POP-PULP-FICTION"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Pulp Fiction - Vincent Vega",
@@ -3470,7 +3703,13 @@
       "name": "Vincent Vega",
       "id": "3357",
       "url": "http://funko.com/collections/pop/products/pop-movies-pulp-fiction-vincent-vega",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/VincentPop_Glam_large.jpg?v=1414715932"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/VincentPop_Glam_large.jpg?v=1414715932",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Pel%C3%ADculas-Fiction-Vincent-vinilo-Figura/dp/B00BW0RJ92",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-movies-pulp-fiction-vincent-vega"
+        }
+      ]
     }
   ],
   "The Big Lebowski":[
@@ -3480,7 +3719,13 @@
       "name": "Donny",
       "id": "3389",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-big-lebowski-donny",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Donny_GLAM_large.jpg?v=1406923286"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Donny_GLAM_large.jpg?v=1406923286",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-Pel%C3%ADculas-Lebowski-vinilo-Figura/dp/B00BW0RCUS",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/the-big-lebowski-donny-pop-vinyl-figure/10949642.html"
+        }
+      ]
       },
     {
       "title": "Pop! Movies: The Big Lebowski - Maude",
@@ -3488,7 +3733,13 @@
       "name": "Maude",
       "id": "3391",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-big-lebowski-maude",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Maude_GLAM_large.jpg?v=1406923304"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Maude_GLAM_large.jpg?v=1406923304",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Movies-Lebowski-Maude-Figure/dp/B01L36534C",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/the-big-lebowski-maude-pop-vinyl-figure/10949641.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Big Lebowski - The Dude",
@@ -3496,7 +3747,13 @@
       "name": "The Dude",
       "id": "3387",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-big-lebowski-the-dude",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Dude_GLAM_large.jpg?v=1406923322"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Dude_GLAM_large.jpg?v=1406923322",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinilo-Big-Lebowski-Dude/dp/B00BW0RCV2",
+          "Raccoongames":"https://www.raccoongames.es/en/product/pop-movies-the-big-lebowski-the-dude"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Big Lebowski - The Jesus",
@@ -3504,7 +3761,13 @@
       "name": "The Jesus",
       "id": "3390",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-big-lebowski-the-jesus",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Jesus_GLAM_large.jpg?v=1406923338"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Jesus_GLAM_large.jpg?v=1406923338",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Figura-cabeza-Lebowski-PDF00004349/dp/B00BW0RCX0",
+          "Funkotown":"http://www.funkotown.es/JESUS-FIG-10-CM-VINYL-POP-EL-GRAN-LEBOWSKI"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Big Lebowski - Walter",
@@ -3512,7 +3775,13 @@
       "name": "Walter",
       "id": "3388",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-big-lebowski-walter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Walter_GLAM_large.jpg?v=1406923355"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Walter_GLAM_large.jpg?v=1406923355",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Gran-Lebowski-Figura-acci%C3%B3n/dp/B00BW0RCXU",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/the-big-lebowski-walter-pop-vinyl-figure/10949640.html"
+        }
+      ]
     }
   ],
   "The Goonies":[
@@ -3522,7 +3791,13 @@
       "name": "Chunk",
       "id": "3700",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-goonies-chunk",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Chunk_POP_GLAM_large.jpg?v=1406923376"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Chunk_POP_GLAM_large.jpg?v=1406923376",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Unisex-Adultos-Funko-Goonies-Pop/dp/B00KAF1JFU",
+          "Popinabox":"https://www.popinabox.es/merch-figures/the-goonies-chunk-pop-vinyl-figure/10938544.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Goonies - Data",
@@ -3530,7 +3805,13 @@
       "name": "Data",
       "id": "3701",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-goonies-data",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Data_POP_GLAM_large.jpg?v=1406923391"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Data_POP_GLAM_large.jpg?v=1406923391",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3701-Funko-Figura/dp/B00G9XKFF2",
+          "Popinabox":"https://www.popinabox.es/merch-figures/the-goonies-data-pop-vinyl-figure/10938574.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Goonies - Mikey",
@@ -3538,7 +3819,13 @@
       "name": "Mikey",
       "id": "3698",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-goonies-mikey",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mikey_POP_GLAM_large.jpg?v=1406923411"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mikey_POP_GLAM_large.jpg?v=1406923411",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/Funko-POP-Movies-Goonies-Action/dp/B00G9XKF66",
+          "Raccongames":"https://www.raccoongames.es/es/producto/pop-movies-the-goonies-mikey"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Goonies - Mouth",
@@ -3546,7 +3833,13 @@
       "name": "Mouth",
       "id": "3699",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-goonies-mouth",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mouth_POP_GLAM_large.jpg?v=1406923424"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Mouth_POP_GLAM_large.jpg?v=1406923424",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-POP-Movies-Goonies-Figura/dp/B00G9XKF3O",
+          "Popinabox":"https://www.popinabox.es/merch-figures/the-goonies-mouth-pop-vinyl-figure/10938528.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Goonies - Sloth",
@@ -3554,7 +3847,15 @@
       "name": "Sloth",
       "id": "3697",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-goonies-sloth",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Sloth_POP_GLAM_large.jpg?v=1406923443"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Sloth_POP_GLAM_large.jpg?v=1406923443",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Movies-Goonies-English/dp/B00NIEEHTA",
+          "Popinabox":"https://www.popinabox.es/merch-figures/the-goonies-sloth-pop-vinyl-figure/10938545.html",
+          "Racoongames":"https://www.raccoongames.es/es/producto/pop-movies-the-goonies-sloth",
+          "Zavvi":"https://www.zavvi.es/merch-figures/the-goonies-sloth-pop-vinyl-figure/10938545.html"
+        }
+      ]
     }
   ],
   "The iron Giant":[
@@ -3564,7 +3865,13 @@
       "name": "The Iron Giant",
       "id": "3402",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-iron-giant-the-iron-giant",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Iron_Giant_POP_WEB_large.jpg?v=1408728329"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Iron_Giant_POP_WEB_large.jpg?v=1408728329",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Player-Figura-Vinilo/dp/B079THWPH6/ref=sr_1_1?adgrpid=60794220684&gclid=CjwKCAiA44LzBRB-EiwA-jJipNJNmR66Zq0e1kk2-RFbOX_MN32sWUNiYC67tLEqT412aDxOhuiGzxoC8JAQAvD_BwE&hvadid=294720151391&hvdev=c&hvlocphy=9047036&hvnetw=g&hvqmt=e&hvrand=10776925221270551003&hvtargid=aud-854254681907%3Akwd-333355220831&hydadcr=16343_1789704&keywords=funko+pop+the+iron+giant&qid=1583407398&sr=8-1",
+          "Zavers":"https://zavers.es/peliculas/4809-ready1-889698304597.html"
+        }
+      ]
     }
   ],
   "The Karate Kid":[
@@ -3574,7 +3881,13 @@
       "name": "Daniel Larusso",
       "id": "5535",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-karate-kid-daniel-larusso",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5535_Daniel_LarussoPOP_large.jpg?v=1430852235"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5535_Daniel_LarussoPOP_large.jpg?v=1430852235",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Karate-Kid-Figura-Funko-FUNVPOP5535/dp/B00X0Y3PXW",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-daniel-larusso-cobra-kai/12321757.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Karate Kid - Johnny Lawrence",
@@ -3582,7 +3895,13 @@
       "name": "Johnny Lawrence",
       "id": "5536",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-karate-kid-johnny-lawrence",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5536_Johnny_LawerencePOP_large.jpg?v=1430852272"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5536_Johnny_LawerencePOP_large.jpg?v=1430852272",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Funko-Figurita-0849803055363/dp/B00X0Y3PSC",
+          "Zavers":"https://zavers.es/peliculas/1570-kara1-849803055363.html"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Karate Kid - Mr. Miyagi",
@@ -3590,7 +3909,13 @@
       "name": "Mr. Miyagi",
       "id": "5537",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-karate-kid-mr-miyagi",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5537_MrMiygi_POP_large.jpg?v=1430852175"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5537_MrMiygi_POP_large.jpg?v=1430852175",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Karate-Kid-Figura-Funko-FUNVPOP5537/dp/B00X0Y3Q2M",
+          "Popcultcha":"https://www.popcultcha.com.au/the-karate-kid-mr-miyagi-pop-vinyl.html"
+        }
+      ]
     }
   ],
   "The Matrix":[
@@ -3600,7 +3925,13 @@
       "name": "Agent Smith",
       "id": "4186",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-matrix-agent-smith",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4186_AgentSmith_Matrix_POP_large.jpg?v=1415923829"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4186_AgentSmith_Matrix_POP_large.jpg?v=1415923829",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Vinyl-Matrix-Agent/dp/B00PRCTKYI",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/the-matrix-agent-smith-pop-vinyl-figure/11045011.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583407767_8ecc9c1048133832952ef41ac113c84a"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Matrix - Morpheus",
@@ -3608,7 +3939,13 @@
       "name": "Morpheus",
       "id": "5091",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-matrix-morpheus",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5091_MorpheousMatrix_POP_large.jpg?v=1415923717"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5091_MorpheousMatrix_POP_large.jpg?v=1415923717",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinilo-The-Matrix-Morpheus/dp/B00PRCXZSU",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-MATRIX-MORPHEUS"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Matrix - Neo",
@@ -3616,7 +3953,13 @@
       "name": "Neo",
       "id": "4185",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-matrix-neo",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4185_Neo_Matrix_POP_large.jpg?v=1415923649"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4185_Neo_Matrix_POP_large.jpg?v=1415923649",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Matrix-Funko-Pop-colecci%C3%B3n-Standard/dp/B00WBV20IG",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-MATRIX-NEO"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: The Matrix - Trinity",
@@ -3624,7 +3967,13 @@
       "name": "Trinity",
       "id": "5090",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-matrix-trinity",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5090_TrintyMatrix_POP_large.jpg?v=1415923771"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5090_TrintyMatrix_POP_large.jpg?v=1415923771",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Vinyl-Matrix-Trinity/dp/B00PRCPCCM",
+          "Ebay":"https://www.ebay.es/itm/392678080782"
+        }
+      ]
     }
   ],
   "The Silence Of The Lambs":[
@@ -3634,7 +3983,14 @@
       "name": "Hannibal Lecter",
       "id": "3115",
       "url": "http://funko.com/collections/pop/products/pop-movies-the-silence-of-the-lambs-hannibal-lecter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/HannibalLPOPGlam800_large.jpg?v=1408728396"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/HannibalLPOPGlam800_large.jpg?v=1408728396",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Movies-Hannibal/dp/B00BNPEJ7Q",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-hannibal-lecter-el-silencio-de-los-corderos/10938567.html",
+          "Zavvi":"https://www.zavvi.es/merch-figures/figura-funko-pop-hannibal-lecter-el-silencio-de-los-corderos/10938567.html"
+        }
+      ]
     }
   ],
   "Transformers":[
@@ -3644,7 +4000,13 @@
       "name": "Bumblebee",
       "id": "3704",
       "url": "http://funko.com/collections/pop/products/pop-movies-transformers-bumblebee",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3816_Bumble_Bee_GUN_GLAM_large.jpg?v=1406923501"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3816_Bumble_Bee_GUN_GLAM_large.jpg?v=1406923501",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Figura-Bumblebee-Transformers-PDF00003997/dp/B00K8GTKFW",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-movies-transformers-bumblebee"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Transformers - Optimus Prime",
@@ -3652,7 +4014,13 @@
       "name": "Optimus Prime",
       "id": "3703",
       "url": "http://funko.com/collections/pop/products/pop-movies-transformers-optimus-prime",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Optimus_Prime_Pop_Glam_large.jpg?v=1406923516"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Optimus_Prime_Pop_Glam_large.jpg?v=1406923516",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Figura-Optimus-Transformers-PDF00003999/dp/B00K83OHBW",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-movies-transformers-optimus-prime"
+        }
+      ]
     }
   ],
   "Watchmen":[
@@ -3662,7 +4030,14 @@
       "name": "Dr. Manhattan",
       "id": "3081",
       "url": "http://funko.com/collections/pop/products/pop-movies-watchmen-dr-manhattan",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Watchmen_Dr.Manhattan_POP-Glam_large.jpg?v=1414716111"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Watchmen_Dr.Manhattan_POP-Glam_large.jpg?v=1414716111",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-PDF00004120-Figura-Watchmen-Manhattan/dp/B00AWE2Z5C",
+          "Funktown":"http://www.funkotown.es/FIGURA-POP-MOVIES-THE-WATCHMEN-DR-MANHATTAN",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/dc-movie-pop-dr-manhattan-watchmen"
+        }
+      ]
     },
     {
       "title": "Pop! Movies: Watchmen - Rorschach",
@@ -3670,7 +4045,15 @@
       "name": "Rorschach",
       "id": "3082",
       "url": "http://funko.com/collections/pop/products/pop-movies-watchmen-rorschach",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Watchmen_Rorschach_POP-Glam_large.jpg?v=1414716127"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Watchmen_Rorschach_POP-Glam_large.jpg?v=1414716127",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.com/-/es/Funko-POP-Movies-Watchmen-Rorschach/dp/B00AWE3QKK",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/dc-movie-pop-rorschach-watchmen",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/watchmen-rorschach-pop-vinyl-figure/10949547.html",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/watchmen-rorschach-pop-vinyl-figure/10949547.html"
+        }
+      ]
     }
   ],
   "Breaking Bad":[
@@ -3680,7 +4063,13 @@
       "name": "The Crystal Ship",
       "id": "4665",
       "url": "http://funko.com/collections/pop/products/pop-rides-breaking-bad-the-crystal-ship",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4665__Crystal_Ship_POP_GLAM_large.jpg?v=1421175982"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4665__Crystal_Ship_POP_GLAM_large.jpg?v=1421175982",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Pop-Breaking-Bad-Caravana/dp/B00S6X5HWO",
+          "Ebay":"https://www.ebay.com/c/797828120"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Breaking Bad - Dead Gustavo Fring",
@@ -3688,7 +4077,13 @@
       "name": "Dead Gustavo Fring",
       "id": "4367",
       "url": "http://funko.com/collections/pop/products/pop-tv-breaking-bad-dead-gustavo-fring",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4367_Breaking_Bad_-_DEAD_Gustavo_Fring_GLAM_large.jpg?v=1406770206"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4367_Breaking_Bad_-_DEAD_Gustavo_Fring_GLAM_large.jpg?v=1406770206",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Dead-Gustavo-Fring-Breaking-Figure/dp/B00TT7X82M",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-tv-breaking-bad-dead-gustavo-fring"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Breaking Bad - Gustavo Fring",
@@ -3696,7 +4091,12 @@
       "name": "Gustavo Fring",
       "id": "4347",
       "url": "http://funko.com/collections/pop/products/pop-tv-breaking-bad-gustavo-fring",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4347_Breaking_Bad_-_Gustavo_Fring_GLAM_large.jpg?v=1406769966"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4347_Breaking_Bad_-_Gustavo_Fring_GLAM_large.jpg?v=1406769966",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-T%C3%A9l%C3%A9vision-Vinyl-166/dp/B00KU12Z9S"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Breaking Bad - Hank Schrader",
@@ -3704,7 +4104,13 @@
       "name": "Hank Schrader",
       "id": "4349",
       "url": "http://funko.com/collections/pop/products/pop-tv-breaking-bad-hank-schrader",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4349_Breaking_Bad_-_Hank_Schrader_GLAM_large.jpg?v=1406770150"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4349_Breaking_Bad_-_Hank_Schrader_GLAM_large.jpg?v=1406770150",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/breaking-bad-hank-schrader-pop-vinyl-figure/10962862.html",
+          "Amazon":"https://www.amazon.com/-/es/Funko-POP-Televisi%C3%B3n-vinilo-Breaking/dp/B00KU12UP2"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Breaking Bad - Heisenberg",
