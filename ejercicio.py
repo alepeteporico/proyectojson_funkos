@@ -41,6 +41,13 @@ while True:
         print("")
 
     elif opc==3:
+        opcion=input("¿Quieres listar las categorias que existen? (s/n): ")
+        if opcion=="s":
+            for categoria in ej3_2(datos):
+                print("-",categoria)
+            print("----------")
+            print("")
+
         categoria=input("Dime una categoria: ")
         for figura in ej3(datos,categoria):
             print("-",figura)
