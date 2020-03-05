@@ -3112,7 +3112,7 @@
   "Back To The Future":[
     {
       "title": "Pop! Movies: Back to the Future - Delorean",
-      "category": "Movies",
+      "category": "Rides",
       "name": "Delorean",
       "id": "3401",
       "url": "http://funko.com/collections/pop/products/pop-movies-back-to-the-future-delorean",
@@ -3327,48 +3327,6 @@
       "id": "3353",
       "url": "http://funko.com/collections/pop/products/pop-movies-kill-bill-the-bride",
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3353_Kill_Bill_-_Beatrix_Kiddo_GLAM_large.jpg?v=1406922854"
-    }
-  ],
-  "Minions":[
-    {
-      "title": "Pop! Movies: Minions - Au Naturel",
-      "category": "Movies",
-      "name": "Au Naturel",
-      "id": "5110",
-      "url": "http://funko.com/collections/pop/products/pop-movies-minions-au-naturel",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5110_Au_Naturel_Minons_POP_large.jpg?v=1430769430"
-    },
-    {
-      "title": "Pop! Movies: Minions - Bored Silly Kevin",
-      "category": "Movies",
-      "name": "Bored Silly Kevin",
-      "id": "5108",
-      "url": "http://funko.com/collections/pop/products/pop-movies-minions-bored-silly-kevin",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5108_Bored_Kevin_Minons_POP_large.jpg?v=1430769385"
-    },
-    {
-      "title": "Pop! Movies: Minions - Cro-Minion",
-      "category": "Movies",
-      "name": "Cro-Minion",
-      "id": "5106",
-      "url": "http://funko.com/collections/pop/products/pop-movies-minions-cro-minion",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5106_Cro_Minion_Minons_POP_large.jpg?v=1430769479"
-    },
-    {
-      "title": "Pop! Movies: Minions - Eye, Matie",
-      "category": "Movies",
-      "name": "Eye, Matie",
-      "id": "5107",
-      "url": "http://funko.com/collections/pop/products/pop-movies-minions-eye-matie",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5107_Eye_Matie_Minons_POP_large.jpg?v=1430769336"
-    },
-    {
-      "title": "Pop! Movies: Minions - King Bob",
-      "category": "Movies",
-      "name": "King Bob",
-      "id": "5243",
-      "url": "http://funko.com/collections/pop/products/pop-movies-minions-king-bob",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5243_King_Bob_Minons_POP_large.jpg?v=1430769533"
     }
   ],
   "Monty Python":[
