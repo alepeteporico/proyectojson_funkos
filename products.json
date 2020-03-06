@@ -4404,7 +4404,8 @@
       "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BobaFett-POP_GLAM_large.jpg?v=1408730024",
       "tiendas":[
         {
-          
+          "Amazon":"https://www.amazon.es/FunKo-figura-vinilo-colecci%C3%B3n-seria/dp/B005F1PL3U/ref=sr_1_1?adgrpid=57869641082&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXzs1HNkDh_MfF58B8nJ9cpddt-eaO4jNuSqdNrqhpvKuWfLwLdFUsaAkcjEALw_wcB&hvadid=275529604477&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=3301227438854640082&hvtargid=aud-854254681907%3Akwd-75625959296&hydadcr=16369_1789755&keywords=boba+fett+funko+pop&qid=1583483794&sr=8-1",
+          "Fnac":"https://www.fnac.es/mp1814992/Funko-POP-Star-Wars-Boba-Fett"
         }
       ]
     },
@@ -4414,7 +4415,13 @@
       "name": "Chewbacca",
       "id": "2324",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-chewbacca",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/06_Chewbacca_POP_GLAM_large.jpg?v=1408730395"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/06_Chewbacca_POP_GLAM_large.jpg?v=1408730395",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Chewbacca-Importaci%C3%B3n-alemana/dp/B077GCTGBV/ref=sr_1_5?adgrpid=55078736126&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVavJpsH9VjwdA9t_SCI7Qg2qstnSqHZ_tnfuil7OQmNgVbiW15TYAaAmJGEALw_wcB&hvadid=275560455035&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=15494671334607135183&hvtargid=aud-854254681907%3Akwd-61053643616&hydadcr=16369_1786540&keywords=chewbacca+funko+pop&qid=1583483923&sr=8-5",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-chewbacca-bobble-head-star-wars/10954863.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2for15popvinyl&&thg_ppc_campaign=71700000033571086&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXSs0sYZ7zpzjNYDXvyxYCK8k8dx4fzsuaLZ3ytrw08cFqDnbq_TpMaAmySEALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Darth Maul",
@@ -4422,7 +4429,13 @@
       "name": "Darth Maul",
       "id": "2390",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-darth-maul",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DarthMaul-POP_GLAM_large.jpg?v=1408730273"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/DarthMaul-POP_GLAM_large.jpg?v=1408730273",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Star-Darth/dp/B005F1QBMK/ref=sr_1_1?adgrpid=56458692696&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUP6IiRo-r-03xO9OCUJSCFkoEUWGybMwjCnafzmnO0Lv8PASpD2oYaAvScEALw_wcB&hvadid=275294451039&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=8432442642599468829&hvtargid=aud-854254681907%3Akwd-62441612696&keywords=funko+pop+darth+maul&qid=1583484026&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/DARTH-MAUL-CABEZON-10-CM-BOBBLE-POP-STAR-WARS"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Darth Vader",
@@ -4430,7 +4443,13 @@
       "name": "Darth Vader",
       "id": "2300",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-darth-vader",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/01_Darth_Vader_POP_GLAM_large.jpg?v=1408730368"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/01_Darth_Vader_POP_GLAM_large.jpg?v=1408730368",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Bobble-Colecci%C3%B3n-Star-Wars/dp/B004JZFCEG/ref=sr_1_2?adgrpid=56457349616&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHW8jRduVXz1Bt9OMWSFbgQETZ_mQSnHGmIyxeLXFErZz0G_Aj3K5rcaAlcNEALw_wcB&hvadid=275294121738&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=3128819307619159474&hvtargid=aud-854254681907%3Akwd-308987136218&hydadcr=16346_1786493&keywords=darth+vader+pop+funko&qid=1583484103&sr=8-2",
+          "Fnac":"https://www.fnac.es/mp1835693/Funko-POP-Star-Wars-Darth-Vader"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Emperor",
@@ -4438,7 +4457,13 @@
       "name": "Emperor",
       "id": "4072",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-emperor",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Emperor_POP_large.jpg?v=1406847132"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/The_Emperor_POP_large.jpg?v=1406847132",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Bobble-Palpatine-Coleccionable/dp/B07KPSJTY9/ref=sr_1_1?adgrpid=51653021970&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVNboapEUjueFycFQnfs1K_2OqTaMyLcKNDfoYQ3JZzQk4bHOjbswcaAr8NEALw_wcB&hvadid=275299727247&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=11852454444328225162&hvtargid=aud-854254681907%3Akwd-339717613634&hydadcr=16371_1786547&keywords=funko+pop+emperor&qid=1583484172&sr=8-1",
+          "Zavers":"https://zavers.es/peliculas/6929-star465-889698375917.html"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Hoth Luke",
@@ -4446,7 +4471,12 @@
       "name": "Hoth Luke",
       "id": "4528",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-hoth-luke",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/REG_Hoth_Luke_POP_large.jpg?v=1406847313"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/REG_Hoth_Luke_POP_large.jpg?v=1406847313",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Star-Wars-Figura-vinilo-4528/dp/B00JWNPFLK/ref=sr_1_14?adgrpid=55595187589&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUJ3btYJFcTjKh1aiuumrLhmNm45aJULYsBbR9K07r9ZGb41WYfsvwaAoi4EALw_wcB&hvadid=275313367359&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=9813179938806940721&hvtargid=aud-854254681907%3Akwd-329959772324&hydadcr=13140_1805729&keywords=funko+luke&qid=1583484248&sr=8-14"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Jabba the Hutt",
@@ -4454,7 +4484,13 @@
       "name": "Jabba the Hutt",
       "id": "2594",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-jabba-the-hutt",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jabba-POP_GLAM_large.jpg?v=1414716360"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jabba-POP_GLAM_large.jpg?v=1414716360",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Star-Jabba/dp/B007TJ4CLI",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-bobblehead-jabba-el-hutt-star-wars/10938543.html"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Jar Jar Binks",
@@ -4462,7 +4498,14 @@
       "name": "Jar Jar Binks",
       "id": "3268",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-jar-jar-binks",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jar_Jar_Binks_POP_large.jpg?v=1406845972"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jar_Jar_Binks_POP_large.jpg?v=1406845972",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Star-Wars-Figura-cabeza/dp/B00BV1OQJS",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/star-wars-jar-jar-binks-pop-vinyl-figure/10954866.html",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-star-wars-jar-jar-binks"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Lando",
@@ -4470,7 +4513,12 @@
       "name": "Lando",
       "id": "3282",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-lando",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Lando_POP_large.jpg?v=1406847011"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Lando_POP_large.jpg?v=1406847011",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Bobble-General-Coleccionable/dp/B07KPK63VZ/ref=sr_1_1?adgrpid=56663382135&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHW9maG_3m2CJ-rLA0tEvRhBc0BZICD-hsrxBRF9TUfpJhCSlajLRFYaAhshEALw_wcB&hvadid=278468559118&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=6628512446927312831&hvtargid=aud-854254681907%3Akwd-301921232771&keywords=funko+pop+lando&qid=1583484421&sr=8-1"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Luke Pilot",
@@ -4478,7 +4526,13 @@
       "name": "Luke Pilot",
       "id": "2596",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-luke-pilot",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/X-WingPOP_GLAM_large.jpg?v=1408730704"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/X-WingPOP_GLAM_large.jpg?v=1408730704",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-PDF00003878-Figura-cabeza-Skywalker/dp/B007TJ4DGW",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/pop-star-wars-luke-skywalker-x-wing-pilot"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Luke Skywalker (Tattooine)",
@@ -4486,7 +4540,13 @@
       "name": "Luke Skywalker (Tattooine)",
       "id": "5710",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-luke-skywalker-tattooine",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5710_TatooineLuke_POP_large.jpg?v=1435356716"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5710_TatooineLuke_POP_large.jpg?v=1435356716",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Pop-Star-Wars-Tatooine/dp/B00UO3D79O",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/star-wars-tatooine-luke-skywalker-pop-vinyl-bobble-head-figure/11114795.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583484561_8e3b6b84be59d0afc1ded0cfaadc2c8e"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Princess Leia",
@@ -4494,7 +4554,13 @@
       "name": "Princess Leia",
       "id": "2319",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-princess-leia",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/04_Leia_POP_GLAM_large.jpg?v=1408730579"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/04_Leia_POP_GLAM_large.jpg?v=1408730579",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Star-Princess/dp/B004JZFCSC",
+          "Zavvi":"https://www.zavvi.es/merch-figures/figura-funko-pop-princesa-leia-bobble-head-star-wars/10938517.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXoLZGU6evaRqoi99CKRzqQ70Hd2Hu1RrY6wk-VELF9sNdvKn1xYaIaAjKvEALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Princess Leia (Boushh)",
@@ -4502,7 +4568,12 @@
       "name": "Princess Leia (Boushh)",
       "id": "5709",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-princess-leia-boushh",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5709_Boushh_Leia_POP_large.jpg?v=1435356645"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5709_Boushh_Leia_POP_large.jpg?v=1435356645",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Star-Wars-Figura-Vinilo-Boushh/dp/B00UO31G8S"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Queen Amidala",
@@ -4510,7 +4581,13 @@
       "name": "Queen Amidala",
       "id": "3283",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-queen-amidala",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Amidala_POP_large.jpg?v=1406847074"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Amidala_POP_large.jpg?v=1406847074",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Star-Wars-Figura-Amidala-FFK3283/dp/B00BV1OSFU",
+          "Popinabox":"https://www.popinabox.es/merch-figures/star-wars-queen-amidala-pop-vinyl-bobblehead/10938527.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583484716_5abb44384f4cfa002560733fa4272b63"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Stormtrooper",
@@ -4518,7 +4595,13 @@
       "name": "Stormtrooper",
       "id": "2321",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-stormtrooper",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/05_Stormtrooper_POP_GLAM_large.jpg?v=1408730769"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/05_Stormtrooper_POP_GLAM_large.jpg?v=1408730769",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Star-Wars-Figura-Stormtrooper-6225/dp/B013G0J77M/ref=sr_1_5?adgrpid=57867008842&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHV7q0iIQx4457B56Zm_lkXrtlENHvNN4xeXXywNsN-5Zc12pplp5U4aAotlEALw_wcB&hvadid=275495463551&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=5361963694093963495&hvtargid=aud-854254681907%3Akwd-65829575450&hydadcr=16345_1786483&keywords=funko+pop+stormtrooper&qid=1583484754&sr=8-5",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-soldado-de-asalto-star-wars-episodio-vii/11165019.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583484810_75eb1c44a27a0eeec9d61838320487ea"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Unmasked Vader",
@@ -4526,7 +4609,13 @@
       "name": "Unmasked Vader",
       "id": "5529",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-unmasked-vader",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5529_Unmasked_Darth_Vader_POP_GLAM_large.jpg?v=1435356830"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5529_Unmasked_Darth_Vader_POP_GLAM_large.jpg?v=1435356830",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Star-Wars-Unmasked/dp/B07G23H27B/ref=sr_1_3?adgrpid=56324190197&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUp69BmkXJXRnoi3OrQ4CI5qwbaJUpHoZj8_nhW1u8u3-uJlXKqxIMaAgCDEALw_wcB&hvadid=278154013912&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=15155598372716381589&hvtargid=aud-854254681907%3Akwd-333624527274&hydadcr=16316_1839678&keywords=funko+pop+darth+vader+unmasked&qid=1583484852&sr=8-3",
+          "Fnac":"https://www.fnac.es/mp5735355/Funko-POP-Bobble-Head-Unmasked-Vader-Star-Wars"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Wicket",
@@ -4534,7 +4623,13 @@
       "name": "Wicket",
       "id": "3270",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-wicket",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Wicket_POP_large.jpg?v=1406845993"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Wicket_POP_large.jpg?v=1406845993",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Bobble-Wicket-Coleccionable/dp/B07KPSTR3Y/ref=sr_1_1?adgrpid=55403229079&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVr4oCv7v3ohwSNBOLGibN3KY_KNHyaqZqA9Q-wVL8i-i8SoLMYy8QaAoApEALw_wcB&hvadid=275523823865&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=15454362985916289830&hvtargid=aud-854254681907%3Akwd-92857350569&keywords=funko+pop+wicket&qid=1583484906&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-wicket-star-wars/11897545.html"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: Yoda",
@@ -4542,7 +4637,12 @@
       "name": "Yoda",
       "id": "2322",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-yoda",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/02_Yoda_POP_GLAM_c5f21b31-8200-41af-a8a3-7875ee9e7ac4_large.jpg?v=1414716487"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/02_Yoda_POP_GLAM_c5f21b31-8200-41af-a8a3-7875ee9e7ac4_large.jpg?v=1414716487",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Regalo-Statue-collezionabili-31799/dp/B07DFDK25L/ref=sr_1_1?adgrpid=64701145668&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUccEklZhGZ_N-l1iWw4fv0no6rfKBNHVfo8OzZ4Nz0RAPQJVaLwTkaAsLHEALw_wcB&hvadid=275517186237&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=3471854749067451852&hvtargid=aud-854254681907%3Akwd-29743698515&hydadcr=16374_1786558&keywords=funko+pop+yoda&qid=1583484978&sr=8-1"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: C-3PO",
@@ -4550,7 +4650,13 @@
       "name": "C-3PO",
       "id": "2387",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-c-3po",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/C3PO-POP_GLAM_large.jpg?v=1408730252"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/C3PO-POP_GLAM_large.jpg?v=1408730252",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Bobble-Star-C-3PO/dp/B005F1PPX6/ref=sr_1_3?adgrpid=56886294900&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXJJFATo9Ss_wbv7IGGRqpoSO8VdlGO_mKa_DNaWHjkzZYRG3x9WrIaAn9CEALw_wcB&hvadid=275383846444&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=8248084867104425853&hvtargid=aud-854254681907%3Akwd-56220305005&hydadcr=13144_1805742&keywords=funko+pop+c3po&qid=1583485089&sr=8-3",
+          "Zavvi":"https://www.zavvi.es/merch-figures/figura-pop-vinyl-bobble-head-c-3po-star-wars/10938542.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHU-OB3lQS_OvL6fkl8_50OtPFmmRYAC6SILrEn6OnE-qLfKM3wFV2YaAk91EALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! Star Wars: R2-D2",
@@ -4558,7 +4664,13 @@
       "name": "R2-D2",
       "id": "3269",
       "url": "http://funko.com/collections/pop/products/pop-star-wars-r2-d2",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/R2D2_POP_large.jpg?v=1406845948"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/R2D2_POP_large.jpg?v=1406845948",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Bobble-Star-Wars/dp/B00BV1OQF2/ref=sr_1_1?adgrpid=58921504529&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHV85ovLPq8iACwE_P8V2m96Svhrbr6Y0ehEXN-WQVU7vwv_hGsz0joaAkpoEALw_wcB&hvadid=275365020154&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=6611974218547675318&hvtargid=aud-854254681907%3Akwd-64873226320&hydadcr=13144_1805742&keywords=funko+pop+r2d2&qid=1583485167&sr=8-1",
+          "Fnac":"https://www.fnac.es/mp1814999/Funko-POP-Star-Wars-R2D2"
+        }
+      ]
     }
   ],
   "Big Bang Theory":[
@@ -4568,7 +4680,13 @@
       "name": "Amy Farrah Fowler",
       "id": "3162",
       "url": "http://funko.com/collections/pop/products/pop-tv-amy-farrah-fowler",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Amy_FF_POP_GLAM_large.jpg?v=1406829416"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Amy_FF_POP_GLAM_large.jpg?v=1406829416",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Pop-Television-Farrah-Fowler-FUNVPOP3162/dp/B00BIK9520/ref=sr_1_8?adgrpid=64479152060&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHWACA_7JXt6JSOLIahJygrWpnu8Lftd1zmzY94ssIv18ks7kVPgwCYaAoDREALw_wcB&hvadid=319376509887&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=9147660915151525641&hvtargid=aud-854254681907%3Akwd-375915991173&hydadcr=16344_1804039&keywords=funko+amy+farrah+fowler&qid=1583485223&sr=8-8",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/funko-amy-farrah-fowler-sdcc-2013-pop-vinyl/11357819.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583485253_0ae382c713f2e3e2f03f4fe86d3a3875"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Bernadette",
@@ -4576,7 +4694,13 @@
       "name": "Bernadette",
       "id": "3460",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-bernadette",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Bernadette_POP_GLAM_large.jpg?v=1406829471"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Bernadette_POP_GLAM_large.jpg?v=1406829471",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Vinilo-Bernadette-Coleccionable/dp/B07N5XC7KL/ref=sr_1_1?adgrpid=65567667281&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXLyJjKsEJGILPaS8PVVIs1NkDnr-9Vn3AN9RdQm9_H4wr-VnoT9P0aAtCtEALw_wcB&hvadid=310777080433&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=5421992257475720882&hvtargid=kwd-296906008451&hydadcr=16347_1804043&keywords=funko+pop+bernadette&qid=1583485289&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-dra.-bernadette-rostenkowski-the-big-bang-theory-nytf/11939269.html"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Howard",
@@ -4584,7 +4708,12 @@
       "name": "Howard",
       "id": "3461",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-howard",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Howard_POP_GLAM_large.jpg?v=1406829524"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Howard_POP_GLAM_large.jpg?v=1406829524",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Theory-figura-FUNVPOP3461/dp/B00DIPY7O4/ref=sr_1_7?adgrpid=60894425501&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHWl8L5c8nwrZQHu6w2epfBp0tCDnG5Yewzr0vKyimGE6fmX7bDgImYaAh8SEALw_wcB&hvadid=320746861090&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=9836015604943317859&hvtargid=aud-856220328953%3Akwd-815347651158&hydadcr=16314_1839674&keywords=funko+pop+big+bang+theory+howard&qid=1583485344&sr=8-7"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Leonard Star Trek",
@@ -4592,7 +4721,12 @@
       "name": "Leonard Star Trek",
       "id": "3503",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-leonard-star-trek",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Leonard_REG_Star_Trek_POP_GLAM_POP_copy_copy_large.jpg?v=1406830352"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Leonard_REG_Star_Trek_POP_GLAM_POP_copy_copy_large.jpg?v=1406830352",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/funko-leonard-hofstadter-sdcc-2013-pop-vinyl/11357763.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583485442_a9b923f49d14a84a6deebd5b0384c193"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Penny",
@@ -4600,7 +4734,13 @@
       "name": "Penny",
       "id": "3458",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-penny",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Penny_POP_GLAM_large.jpg?v=1406829579"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Penny_POP_GLAM_large.jpg?v=1406829579",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/POP-Vinyl-Theory-figura-FUNVPOP3458/dp/B00DIPY8Q6/ref=sr_1_10?adgrpid=64673853351&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXLdgVtG1J7POiJ6qy1d5GJLviTp6_es9w-EczH7apkdqpBtngQImIaAiByEALw_wcB&hvadid=311320734715&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=14904887226194868636&hvtargid=aud-854254681907%3Akwd-597718187753&hydadcr=16315_1839676&keywords=funko+pop+big+bang+theory+penny&qid=1583485480&sr=8-10",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/big-bang-theory-penny-pop-vinyl-figure/10916239.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583485506_9ae52e7808df79fb56106e6511dd5165"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Raj",
@@ -4608,7 +4748,13 @@
       "name": "Raj",
       "id": "3459",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-raj",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Raj_POP_GLAM_large.jpg?v=1406829631"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Theory_Raj_POP_GLAM_large.jpg?v=1406829631",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Vinilo-Theory-Coleccionable/dp/B07N5RW3N1/ref=sr_1_1?adgrpid=71499556230&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUEM789VVdGcH_Lvhi3a0OS2V3x3Ximblqg6Q1OJACxqVT3VLh4SjQaAp1gEALw_wcB&hvadid=336061256823&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=4551477193686439327&hvtargid=aud-856220328953%3Akwd-317428370615&hydadcr=16375_1806635&keywords=funko+pop+raj&qid=1583485555&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-figures/figura-funko-pop-dr.-rajesh-raj-koothrappali-the-big-bang-theory-nytf/11939268.html"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Sheldon Green Lantern Shirt",
@@ -4616,7 +4762,13 @@
       "name": "Sheldon Green Lantern Shirt",
       "id": "2811",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-sheldon-green-lantern-shirt",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SheldonPOPGlam_large.jpg?v=1414716657"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SheldonPOPGlam_large.jpg?v=1414716657",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Sheldon-Cooper-Green-Lantern-Theory/dp/B017CB1KXU",
+          "Raccoongames":"https://www.raccoongames.es/es/producto/the-big-bang-theory-pop-sheldon-cooper-green-lantern"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Big Bang Theory - Sheldon Star Trek",
@@ -4624,41 +4776,12 @@
       "name": "Sheldon Star Trek",
       "id": "3502",
       "url": "http://funko.com/collections/pop/products/pop-tv-big-bang-theory-sheldon-star-trek",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Sheldon_REG_Star_Trek_POP_GLAM_POP_large.jpg?v=1406830269"
-    }
-  ],
-  "Family Guy":[
-    {
-      "title": "Pop! TV: Family Guy - Brian",
-      "category": "Tv",
-      "name": "Brian",
-      "id": "5239",
-      "url": "http://funko.com/collections/pop/products/pop-tv-family-guy-brian",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5239_Family_Guy_-_Brian_hires_large.jpg?v=1421710885"
-    },
-    {
-      "title": "Pop! TV: Family Guy - Peter",
-      "category": "Tv",
-      "name": "Peter",
-      "id": "5238",
-      "url": "http://funko.com/collections/pop/products/pop-tv-family-guy-peter",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5238_Family_Guy_-_Peter_hires_large.jpg?v=1421710836"
-    },
-    {
-      "title": "Pop! TV: Family Guy - Ray Gun Stewie",
-      "category": "Tv",
-      "name": "Ray Gun Stewie",
-      "id": "5241",
-      "url": "http://funko.com/collections/pop/products/pop-tv-family-guy-ray-gun-stewie",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5241_Family_Guy_-_Ray_Gun_Stewie_hires_large.jpg?v=1421711009"
-    },
-    {
-      "title": "Pop! TV: Family Guy - Stewie",
-      "category": "Tv",
-      "name": "Stewie",
-      "id": "5240",
-      "url": "http://funko.com/collections/pop/products/pop-tv-family-guy-stewie",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5240_Family_Guy_Stewie_hires_large.jpg?v=1421710954"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/BB_Sheldon_REG_Star_Trek_POP_GLAM_POP_large.jpg?v=1406830269",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Figura-Star-Trek-PDF00003791/dp/B00BRBDIRI"
+        }
+      ]
     }
   ],
   "Friends":[
@@ -4668,7 +4791,12 @@
       "name": "Chandler Bing",
       "id": "5877",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-chandler-bing",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5877_Chandler_GLAM_large.jpg?v=1439234939"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5877_Chandler_GLAM_large.jpg?v=1439234939",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Vinyl-Friends-Chandler/dp/B00X0Y47NE/ref=sr_1_7?keywords=Friends+Funko+Pop+Chandler&qid=1583485736&s=toys&sr=1-7"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Friends - Joey Tribbiani",
@@ -4676,7 +4804,13 @@
       "name": "Joey Tribbiani",
       "id": "5879",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-joey-tribbiani",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5879_Friends_Joey_GLAM_large.jpg?v=1439235069"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5879_Friends_Joey_GLAM_large.jpg?v=1439235069",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Vinyl-Friends-Tribbiani/dp/B00MUM28YC/ref=sr_1_9?keywords=Friends+Funko+Pop+Chandler&qid=1583485736&s=toys&sr=1-9",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/friends-joey-tribbiani-pop-vinyl-figure/11160001.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583485893_6af704e7b0902c1cab4d98f5893638ae"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Friends - Monica Geller",
@@ -4684,7 +4818,12 @@
       "name": "Monica Geller",
       "id": "5875",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-monica-geller",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5875_Monica_GLAM_large.jpg?v=1439234644"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5875_Monica_GLAM_large.jpg?v=1439234644",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-32748-Friends-W2-estatuas/dp/B07DFDYSQM/ref=sr_1_6?keywords=Friends+Funko+Pop+Chandler&qid=1583485736&s=toys&sr=1-6"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Friends - Phoebe Buffay",
@@ -4692,7 +4831,12 @@
       "name": "Phoebe Buffay",
       "id": "5876",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-phoebe-buffay",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5876_Friends_Phoebe_GLAM_large.jpg?v=1439234775"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5876_Friends_Phoebe_GLAM_large.jpg?v=1439234775",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-024498-Figura-Friends-Phoebe/dp/B00X0Y486U/ref=sr_1_11?keywords=Friends+Funko+Pop+Chandler&qid=1583485736&s=toys&sr=1-11"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Friends - Rachel Green",
@@ -4700,7 +4844,12 @@
       "name": "Rachel Green",
       "id": "5874",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-rachel-green",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5874_RachelGreenGLAM_large.jpg?v=1439234580"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5874_RachelGreenGLAM_large.jpg?v=1439234580",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Pop-Friends-Rachel-Green/dp/B00X0Y48D8/ref=sr_1_7?keywords=Friends+Funko+Pop+Rachel&qid=1583485991&s=toys&sr=1-7"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Friends - Ross Geller",
@@ -4708,7 +4857,12 @@
       "name": "Ross Geller",
       "id": "5878",
       "url": "http://funko.com/collections/pop/products/pop-tv-friends-ross-geller",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5878_RossGeller_hires_large.jpg?v=1439235012"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5878_RossGeller_hires_large.jpg?v=1439235012",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Figura-Pop-Friends-Ross-Geller/dp/B00X0Y47Z2/ref=sr_1_10?keywords=Friends+Funko+Pop+Chandler&qid=1583485736&s=toys&sr=1-10"
+        }
+      ]
     }
   ],
   "Game Of Thrones":[
@@ -4718,15 +4872,12 @@
       "name": "Arya Stark",
       "id": "3089",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-arya-stark",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Arya_Stark_POP_GLAM_large.jpg?v=1406831658"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Brienne of Tarth",
-      "category": "Tv",
-      "name": "Brienne of Tarth",
-      "id": "4017",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-brienne-of-tarth",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Brienne_POP_GLAM_large.jpg?v=1406833860"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Arya_Stark_POP_GLAM_large.jpg?v=1406831658",
+      "tiendas":[
+        {
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-arya-stark-juego-de-tronos/10916270.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVeYJT7uwxcfiQw1kR3-DZADTR4ZAsUUQwxtyRLqut5bRxF-ABjhPQaAlzVEALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Castle Black Jon Snow",
@@ -4734,7 +4885,13 @@
       "name": "Castle Black Jon Snow",
       "id": "4073",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-castle-black-jon-snow",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4073_GoT_-_Castle_Black_Jon_Snow_GLAM_large.jpg?v=1414025578"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4073_GoT_-_Castle_Black_Jon_Snow_GLAM_large.jpg?v=1414025578",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Thrones-Castle/dp/B00O2CEQBG/ref=sr_1_1?adgrpid=64673853351&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUtYv_CP6NT2gReK6io06v1VDkvE5SkF6_JjsUz1FmCK7XhEZrRVFwaAhkLEALw_wcB&hvadid=311320734715&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=6315505506094699411&hvtargid=aud-854254681907%3Akwd-333920796663&hydadcr=16315_1839676&keywords=funko+pop+jon+snow+castle+black&qid=1583486190&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/game-of-thrones-jon-snow-muddy-exclusive-pop-vinyl-figure/11112615.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583486210_0294eae856d3c68ec03dd29ab69419a9"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Cersei Lannister",
@@ -4742,7 +4899,13 @@
       "name": "Cersei Lannister",
       "id": "3087",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-cersei-lannister",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Cersei_Lannister_POP_GLAM_large.jpg?v=1406831549"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Cersei_Lannister_POP_GLAM_large.jpg?v=1406831549",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Thrones-Lannister/dp/B00B1C14H4/ref=sr_1_4?adgrpid=58912966991&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUjttM656Ejuu5s61H2mQgKMCsNmyNYc0dBCw-El_BLjY8BTYHmXi4aApD1EALw_wcB&hvadid=275367049171&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=11870681980090545307&hvtargid=aud-854254681907%3Akwd-312466330522&hydadcr=16341_1804036&keywords=cersei+lannister+funko+pop&qid=1583486238&sr=8-4",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-pop-vinyl-cersei-lannister-juego-de-tronos/10949557.html?switchcurrency=EUR&shippingcountry=ES&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&affil=awin&utm_content=https%3A%2F%2Fshopforward.nl%2F&utm_term=Comparison+Engine&utm_source=AWin-531573&utm_medium=affiliate&utm_campaign=AffiliateWin&awc=16891_1583486254_343ed2515943790ed8b6d77ec247da9f"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Daenerys Targaryen",
@@ -4750,7 +4913,13 @@
       "name": "Daenerys Targaryen",
       "id": "3012",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-daenerys-targaryen",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game_of_ThronesDaenerysGLAM_large.jpg?v=1408732053"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game_of_ThronesDaenerysGLAM_large.jpg?v=1408732053",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-funko-pop-daenerys-targaryen-juego-de-tronos/10916274.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=BF3FOR28&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHULO-c_gHo9fRhhKnOqxdZO8bRiv3t9nYVFKulOwuSJDTuupPoRAOIaAlOiEALw_wcB&gclsrc=aw.ds",
+          "Zavvi":"https://www.zavvi.es/merch-action-figures/figura-funko-pop-daenerys-targaryen-juego-de-tronos/10916274.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&&thg_ppc_campaign=71700000033571086&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUXxqUn37VQ-mf7lbb8jRh0IByyMCz1X5puD-PE1aiU0A4_-WJQbAEaAtFHEALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Drogon",
@@ -4758,15 +4927,13 @@
       "name": "Drogon",
       "id": "3873",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-drogon",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dogon_POP_GLAM_large.jpg?v=1406834010"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Ghost",
-      "category": "Tv",
-      "name": "Ghost",
-      "id": "3876",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-ghost",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Ghost_POP_GLAM_large.jpg?v=1406832751"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Dogon_POP_GLAM_large.jpg?v=1406834010",
+      "tiendas":[
+        {
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-funko-pop-drogon-juego-de-tronos/10916275.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVvkFFLKMoEbwn9tGgXIRsVmWIJs6A19Kmv0r7RuezPk_b-h6SozYMaAuzBEALw_wcB&gclsrc=aw.ds",
+          "Amazon":"https://www.amazon.es/Funko-POP-Vinyl-Thrones-Drogon/dp/B00GXO47JM/ref=sr_1_12?adgrpid=55403229079&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVfDHeor1V_mVWBg9W8WTFuXl4TX_pt4grnJSlU-WWm44FeS-aq-ZUaAkXKEALw_wcB&hvadid=275523823901&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=17210765785646675699&hvtargid=aud-854254681907%3Akwd-115415618918&keywords=funko+pop+dragon&qid=1583486370&sr=8-12"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Golden Hand Jaime Lannister",
@@ -4774,23 +4941,13 @@
       "name": "Golden Hand Jaime Lannister",
       "id": "5069",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-golden-hand-jaime-lannister",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5069_Jaime_Lannister_GOT_POP_large.jpg?v=1425060911"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Grey Worm",
-      "category": "Tv",
-      "name": "Grey Worm",
-      "id": "5073",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-grey-worm",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5073_Grey_Worm_GOT_POP_large.jpg?v=1425061107"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Hodor",
-      "category": "Tv",
-      "name": "Hodor",
-      "id": "3872",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-hodor",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Hodor_POP_GLAM_large.jpg?v=1406832659"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5069_Jaime_Lannister_GOT_POP_large.jpg?v=1425060911",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Thrones-Lannister-Golden-Pre-release/dp/B01C6O4J8G",
+          "Ebay":"https://www.ebay.es/p/28011029900"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Jaime Lannister",
@@ -4798,7 +4955,12 @@
       "name": "Jaime Lannister",
       "id": "3091",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-jaime-lannister",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jamie_Lanister_POP_GLAM_large.jpg?v=1406831229"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jamie_Lanister_POP_GLAM_large.jpg?v=1406831229",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Game-Thrones-Figura-cabeza-Lannister/dp/B00B1CDMU6/ref=sr_1_1?adgrpid=59073324394&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUwXaeQZZSj26vANsGhktiU2zBgAdjPXcHQGOWGJ07h5zj8dM3RKH4aAiqAEALw_wcB&hvadid=275583012685&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=5617921198185736356&hvtargid=aud-854254681907%3Akwd-296793747039&hydadcr=16342_1806570&keywords=funko+pop+jaime+lannister&qid=1583486451&sr=8-1"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Joffrey Baratheon",
@@ -4806,7 +4968,13 @@
       "name": "Joffrey Baratheon",
       "id": "3871",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-joffrey-baratheon",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Joffrey_POP_GLAM_large.jpg?v=1406832893"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Joffrey_POP_GLAM_large.jpg?v=1406832893",
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.es/itm/Funko-POP-Joffrey-Baratheon-Game-Of-Thrones-Vinyl-Figure-14-Rare/113840361598?hash=item1a816a107e:g:3fEAAOSwXJhc0BJa",
+          "Amazon":"https://www.amazon.es/Game-Thrones-encima-imagen-ampliarla/dp/B00GXP18S4"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Jon Snow",
@@ -4814,7 +4982,12 @@
       "name": "Jon Snow",
       "id": "3090",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-jon-snow",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jon_Snow_POP_GLAM_64c0079e-b3a4-4491-8354-8f00307b3c79_large.jpg?v=1406831383"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Jon_Snow_POP_GLAM_64c0079e-b3a4-4491-8354-8f00307b3c79_large.jpg?v=1406831383",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-POP-Vinilo-Colecci%C3%B3n-tronos/dp/B00B1CAGVY/ref=sr_1_2?adgrpid=61936014851&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXxTImes0Oz4nYeigIVXeaKeaSoKGFIAVwNVKpRHTFwfFv2Up9QPasaAtrkEALw_wcB&hvadid=275623816688&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=3440872471352567257&hvtargid=aud-854254681907%3Akwd-297131518060&hydadcr=16370_1786544&keywords=jon+snow+pop+funko&qid=1583486558&sr=8-2"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Khal Drogo",
@@ -4822,7 +4995,13 @@
       "name": "Khal Drogo",
       "id": "3013",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-khal-drogo",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game_of_ThronesKhalDrogoGLAM_large.jpg?v=1408732111"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game_of_ThronesKhalDrogoGLAM_large.jpg?v=1408732111",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-POP-Vinilo-Thrones-Drogo/dp/B009B0ZNN4/ref=sr_1_1?adgrpid=57757059098&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHU0rhl_Hr9fmNUKyFY1QGyVlhXvXkSFOyx8e0IQjpFg_AnPjhXHhc4aAq8JEALw_wcB&hvadid=275325753065&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=6699777660497689839&hvtargid=aud-854254681907%3Akwd-488959234232&hydadcr=13171_1805809&keywords=funko+pop+khal+drogo&qid=1583486604&sr=8-1",
+          "Popinabox":"https://www.popinabox.es/merch-action-figures/figura-funko-pop-khal-drogo-juego-de-tronos/10949556.html?affil=thggpsad&switchcurrency=EUR&shippingcountry=ES&shoppingpid=2FOR18POP&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUwspGhpIBB65jaq2a2dKFjMkGtUOGTEz63vNS2SkMVFroprdSlO4saAuUGEALw_wcB&gclsrc=aw.ds"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Mhysa Daenerys",
@@ -4830,7 +5009,13 @@
       "name": "Mhysa Daenerys",
       "id": "4048",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-mhysa-daenerys",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4048_GoT_DaenerysBlueDress_GLAM_large.jpg?v=1416607756"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4048_GoT_DaenerysBlueDress_GLAM_large.jpg?v=1416607756",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Pop-Vinyl-Thrones-Daenerys/dp/B00M765ZSC",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-GOT-MHYSA-DAENERYS"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game Of Thrones - Ned Stark",
@@ -4838,23 +5023,13 @@
       "name": "Ned Stark",
       "id": "3016",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-ned-stark",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game-of-ThronesNedStarkGLAM_large.jpg?v=1408732272"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Oberyn",
-      "category": "Tv",
-      "name": "Oberyn",
-      "id": "5071",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-oberyn",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5071_Oberyn_GOT_POP_large.jpg?v=1425061016"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Petyr Baelish",
-      "category": "Tv",
-      "name": "Petyr Baelish",
-      "id": "4076",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-petyr-baelish",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4076_GoT_-_Petyr_GLAM_large.jpg?v=1414025764"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game-of-ThronesNedStarkGLAM_large.jpg?v=1408732272",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-FU3016-Figura-Stark-Tronos/dp/B009B11HZ6/ref=sr_1_1?adgrpid=57869641082&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVMVded_9Z7cz1jJWB5IIrHjH38FSrrkQX2iPp5FoMmDu-G2x-N-ywaAi0IEALw_wcB&hvadid=275529537724&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=2790919047049465958&hvtargid=aud-854254681907%3Akwd-298209377742&hydadcr=16369_1786540&keywords=funko+pop+ned+stark&qid=1583486766&sr=8-1",
+          "Ebay":"https://www.ebay.es/p/17031850497"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Robb Stark",
@@ -4862,15 +5037,13 @@
       "name": "Robb Stark",
       "id": "3088",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-robb-stark",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Robb_Stark_POP_GLAM_large.jpg?v=1406831302"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Samwell Tarly Training Grounds",
-      "category": "Tv",
-      "name": "Samwell Tarly Training Grounds",
-      "id": "4074",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-samwell-tarly-training-grounds",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4074_GoT_-_Samwell_Tarly_Training_Grounds_GLAM_large.jpg?v=1414025632"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Robb_Stark_POP_GLAM_large.jpg?v=1406831302",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Juego-Tronos-Figura-Stark-FFK3088/dp/B00B1C4SB8",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-GOT-ROBB-STARK"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Sansa Stark",
@@ -4878,23 +5051,13 @@
       "name": "Sansa Stark",
       "id": "4075",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-sansa-stark",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4075_GoT_-_Sansa_GLAM_large.jpg?v=1414025700"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - The Hound",
-      "category": "Tv",
-      "name": "The Hound",
-      "id": "3015",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-the-hound",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game-of-ThronesHoundGLAM_large.jpg?v=1408732292"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - The Mountain",
-      "category": "Tv",
-      "name": "The Mountain",
-      "id": "5072",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-the-mountain",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5072_Mountain_GOT_POP_large.jpg?v=1425061058"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/4075_GoT_-_Sansa_GLAM_large.jpg?v=1414025700",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-Pop-Juego-Tronos-Sansa/dp/B00O2D1OQK/ref=sr_1_2?adgrpid=59041828954&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHXJ3A1F_GPvY5urMc8zz_NPEfbL9oXDiXC5q4QskYlFxKf_MmLwYjUaAjD5EALw_wcB&hvadid=275417427508&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=505672820298912544&hvtargid=aud-854254681907%3Akwd-301662855295&hydadcr=16346_1804041&keywords=funko+pop+sansa+stark&qid=1583486862&sr=8-2",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-MOVIE-JUEGOS-DE-TRONOS-SANSA-STARK"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game Of Thrones - Tyrion Lannister",
@@ -4902,7 +5065,13 @@
       "name": "Tyrion Lannister",
       "id": "3014",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-tyrion-lannister",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Gameof_Thrones_TyrionGLAM_large.jpg?v=1408732395"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Gameof_Thrones_TyrionGLAM_large.jpg?v=1408732395",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/FunKo-3014-Thrones-Tyrion-Lannister/dp/B009B10BHQ/ref=sr_1_5?adgrpid=58912966991&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUoHPgW1sievd8CF-JdwAxYJfIeJNdkvBAd1Ro5hT-_DnbTSfXeOlcaAuPqEALw_wcB&hvadid=275367049339&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=14371411773200844277&hvtargid=aud-854254681907%3Akwd-300065271762&hydadcr=16341_1806568&keywords=tyrion+lannister+funko+pop&qid=1583486936&sr=8-5",
+          "Fnac":"https://www.fnac.es/a1223576/Game-of-Thrones-Figura-Funko-Juego-de-tronos-Tyrion-Lannister-Figura"
+        }
+      ]
     },
     {
       "title": "Pop! TV: Game of Thrones - Tyrion Lannister w/Scar Battle Armour",
@@ -4910,47 +5079,13 @@
       "name": "Tyrion Lannister w/Scar Battle Armour",
       "id": "3779",
       "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-tyrion-lannister-w-scar-battle-armour",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3779_Tyrion_Battel_Ax_POP_GLAM_large.jpg?v=1407435909"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Tywin Lannister",
-      "category": "Tv",
-      "name": "Tywin Lannister",
-      "id": "3874",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-tywin-lannister",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Tywin_POP_GLAM_large.jpg?v=1406833125"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Viserion",
-      "category": "Tv",
-      "name": "Viserion",
-      "id": "5062",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-viserion",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/5062_Viserion_GOT_POP_large.jpg?v=1425060850"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Wedding Dress Daenerys",
-      "category": "Tv",
-      "name": "Wedding Dress Daenerys",
-      "id": "4016",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-wedding-dress-daenerys",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Daenerys_Bride_POP_GLAM_large.jpg?v=1406833944"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - White Walker",
-      "category": "Tv",
-      "name": "White Walker",
-      "id": "3017",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-white-walker",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Game-of-ThronesWhiteWalkerGLAM_large.jpg?v=1408732374"
-    },
-    {
-      "title": "Pop! TV: Game of Thrones - Ygritte",
-      "category": "Tv",
-      "name": "Ygritte",
-      "id": "3875",
-      "url": "http://funko.com/collections/pop/products/pop-tv-game-of-thrones-ygritte",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Ygritte_POP_GLAM_large.jpg?v=1406832820"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/3779_Tyrion_Battel_Ax_POP_GLAM_large.jpg?v=1407435909",
+      "tiendas":[
+        {
+          "Ebay":"https://www.ebay.es/itm/Funko-Pop-Tyrion-Lannister-Scar-Battle-Armor-21-Game-of-Thrones-Exclusive-/201748979351",
+          "Amazon":"https://www.amazon.es/Tronos-Figura-Armadura-colecci%C3%B3n-Standard/dp/B07GZ3FQTT/ref=sr_1_10?adgrpid=58912966991&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHVPQKA8VrJverItQWM_wewrabjy8A7_PPmoCV-QxuGNijRwkggSebEaAnBrEALw_wcB&hvadid=275367049171&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=b&hvrand=12618761764778688458&hvtargid=aud-854254681907%3Akwd-295940791414&hydadcr=16341_1804036&keywords=tyrion+lannister+funko+pop&qid=1583487022&sr=8-10"
+        }
+      ]
     }
   ],
   "Sharknado":[
@@ -4960,25 +5095,14 @@
       "name": "Sharknado",
       "id": "4285",
       "url": "http://funko.com/collections/pop/products/pop-tv-sharknado",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Sharknado_large.jpg?v=1406841366"
-    }
-  ],
-  "Spongebob Squarepants":[
-    {
-      "title": "Pop! TV: Spongebob Squarepants - Patrick",
-      "category": "Tv",
-      "name": "Patrick",
-      "id": "2893",
-      "url": "http://funko.com/collections/pop/products/pop-television-spongebob-squarepants-patrick",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SpongeBob_Patrick_POP_GLAM_large.jpg?v=1407349858"
-    },
-    {
-      "title": "Pop! TV: SpongeBob Squarepants - SpongeBob",
-      "category": "Tv",
-      "name": "SpongeBob",
-      "id": "5009",
-      "url": "http://funko.com/collections/pop/products/pop-tv-spongebob-squarepants-spongebob",
-      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/SpongeBob_POP_GLAM_large.jpg?v=1406844872"
+      "img": "http://cdn.shopify.com/s/files/1/0552/1401/products/Sharknado_large.jpg?v=1406841366",
+      "tiendas":[
+        {
+          "Amazon":"https://www.amazon.es/Funko-Figurine-Sharknado-figurine-0849803044589/dp/B00KDHT830/ref=sr_1_1?adgrpid=55968643157&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHV5cjXtkkTTHdPwIuki0FMK4Ohj51X1y1OgNPpQosrYVv17yWTtaXUaAtZBEALw_wcB&hvadid=275357130155&hvdev=c&hvlocphy=1005421&hvnetw=g&hvqmt=e&hvrand=13423993622678481014&hvtargid=aud-854254681907%3Akwd-295592360300&hydadcr=13149_1805757&keywords=funko+pop+sharknado&qid=1583487074&sr=8-1",
+          "Funkotown":"http://www.funkotown.es/FIGURA-POP-SHARKNADO-SHARKNADO",
+          "Zavers":"https://zavers.es/peliculas/652-funkosharknado-849803042851.html"
+        }
+      ]
     }
   ]
 } 
